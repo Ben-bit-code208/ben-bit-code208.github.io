@@ -1,0 +1,9 @@
+
+Ping wird ausgeführt für google.com [2a00:1450:4001:80e::200e] mit 32 Bytes Daten:
+Antwort von 2a00:1450:4001:80e::200e: Zeit=15ms 
+
+Ping-Statistik für 2a00:1450:4001:80e::200e:
+    Pakete: Gesendet = 1, Empfangen = 1, Verloren = 0
+    (0% Verlust),
+Ca. Zeitangaben in Millisek.:
+    Minimum = 15ms, Maximum = 15ms, Mittelwert = 15ms
