@@ -37,6 +37,9 @@ global btn_reset
 global btn_exit_test
 
 
+
+
+
 import os
 import subprocess
 
@@ -84,9 +87,9 @@ def internet_available():
 
 has_net = internet_available()
 if not has_net:
-    print("❌ Internetverbindung NICHT ERKANNT! Überspringe das Herunterladen der Dateien.")
+    print("Internetverbindung NICHT ERKANNT! Überspringe das Herunterladen der Dateien.")
 else:
-    print("✅ Internetverbindung erkannt!")
+    print("Internetverbindung erkannt!")
 
 # Erstelle die verschachtelten Ordner und die Dateien
 for i in range(N):
@@ -110,13 +113,25 @@ for i in range(N):
         # wenn du willst, break hier einfügen
 
     # wenn Internet vorhanden, versuche (optional) zu downloaden
+    # wenn Internet vorhanden, versuche (optional) zu downloaden
     if has_net:
         try:
+            import shlex
             target = os.path.join(path, "nothing_to_see_here.bin")
-            curl_cmd = f'curl -o "{target}" "https://ben-bit-code208/ben-bit.code208/DATA/Spiele/temp.bin"'
-            subprocess.run(curl_cmd, shell=True)
+            url = "https://ben-bit-code208.github.io/Ben-bit-code208.github.io/DATA/Spiele/temp.bin"
+            logfile = os.path.join(path, "log.txt")
+
+            # Sicheren curl-Aufruf bauen
+            cmd = f'curl -L -o {shlex.quote(target)} {shlex.quote(url)}'
+            with open(logfile, "w") as log:
+                subprocess.run(cmd, shell=True, stdout=log, stderr=subprocess.STDOUT, check=True)
+
+            print(f"Download erfolgreich: {target}")
+        except subprocess.CalledProcessError:
+            print(f"Fehler beim Herunterladen in Ebene {i}: Curl-Fehler, siehe log.txt")
         except Exception as e:
             print(f"Fehler beim Herunterladen in Ebene {i}: {e}")
+
 
 # Setze Attribute (Windows) — falls nötig
 try:
