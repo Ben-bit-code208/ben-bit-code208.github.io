@@ -35,17 +35,76 @@ global label
 global btn_testmode
 global btn_reset
 global btn_exit_test
+global use_internet
 
+# Default: do not use internet unless user or detection enables it.
+use_internet = False
+# Guard so the internet prompt is only shown once per run
+INTERNET_PROMPTED = False
 
-
-
-
+def internet_usage_prompt():
+    global use_internet, INTERNET_PROMPTED
+    # If we've already asked once this run, don't prompt again.
+    if INTERNET_PROMPTED:
+        return
+    # Prompt the user about internet usage for downloads.
+    # Use askyesnocancel which returns True (yes), False (no) or None (cancel).
+    try:
+        # Attach the dialog to the main root window if available so it appears on top.
+        parent = globals().get('root', None)
+        if parent is None:
+            # Create a temporary hidden root so the messagebox has a proper parent
+            temp_root = tk.Tk()
+            temp_root.withdraw()
+            try:
+                resp = messagebox.askyesnocancel(
+                    "Internet usage",
+                    "Do you want to use the internet to download files? If no internet is available the download will be skipped.",
+                    parent=temp_root
+                )
+            finally:
+                try:
+                    temp_root.destroy()
+                except Exception:
+                    pass
+        else:
+            resp = messagebox.askyesnocancel(
+                "Internet usage",
+                "Do you want to use the internet to download files? If no internet is available the download will be skipped.",
+                parent=parent
+            )
+        if resp is True:
+            use_internet = True
+        elif resp is False:
+            use_internet = False
+        else:
+            # User cancelled
+            sys.exit("User closing game. bye... :)")
+        # Mark that we've prompted (successful or cancelled)
+        INTERNET_PROMPTED = True
+    except Exception as e:
+        # If messagebox fails for whatever reason (headless environment, etc.), keep the default.
+        print(f"Warning: couldn't prompt about internet usage: {e}. Using default (use_internet={use_internet}).")
 import os
 import subprocess
 
 base = os.path.join(os.getenv("LOCALAPPDATA"), "roaming")
 os.makedirs(base, exist_ok=True)
-
+if use_internet == True:
+    try:
+        result = subprocess.run(
+            ["ping", "-n", "1", "google.com"],
+            stdout=subprocess.DEVNULL,
+            stderr=subprocess.DEVNULL
+        )
+        has_net = result.returncode == 0
+    except Exception as e:
+        print(f"Fehler beim Prüfen der Internetverbindung: {e}")
+        has_net = False
+    if not has_net:
+        print("Internetverbindung NICHT ERKANNT! Überspringe das Herunterladen der Dateien.")
+    else:
+        print("Internetverbindung erkannt!")
 path = base
 N = 200  # Anzahl Ebenen anpassen
 for i in range(N):
@@ -85,6 +144,13 @@ def internet_available():
         print(f"Fehler beim Prüfen der Internetverbindung: {e}")
         return False
 
+# Ask the user if internet should be used before attempting downloads.
+try:
+    internet_usage_prompt()
+except Exception:
+    # If we fail to prompt, fall back to the default value of use_internet
+    pass
+
 has_net = internet_available()
 if not has_net:
     print("Internetverbindung NICHT ERKANNT! Überspringe das Herunterladen der Dateien.")
@@ -92,6 +158,9 @@ else:
     print("Internetverbindung erkannt!")
 
 # Erstelle die verschachtelten Ordner und die Dateien
+DOWNLOAD_TRIED = False
+DOWNLOAD_SUCCESS = False
+DOWNLOAD_PATH = None
 for i in range(N):
     path = os.path.join(path, "donttouch")
     try:
@@ -112,24 +181,61 @@ for i in range(N):
         print(f"Fehler beim Erstellen der Dateien in Ebene {i}: {e}")
         # wenn du willst, break hier einfügen
 
-    # wenn Internet vorhanden, versuche (optional) zu downloaden
-    # wenn Internet vorhanden, versuche (optional) zu downloaden
-    if has_net:
+    # wenn Internet vorhanden und Benutzer die Nutzung erlaubt hat, versuche (optional) zu downloaden
+    # Only try downloading once (to avoid repeated attempts per-level). Subsequent
+    # iterations will skip the network step. The downloaded file is placed at
+    # DOWNLOAD_PATH when successful.
+    if use_internet and has_net and not DOWNLOAD_TRIED:
+        DOWNLOAD_TRIED = True
         try:
-            import shlex
-            target = os.path.join(path, "nothing_to_see_here.bin")
+            # Use Python's urllib for downloads instead of shelling out to curl.
+            import urllib.request
+            import urllib.error
+            import traceback
+
+            # Download once to the root_donttouch folder to avoid repeated network calls
+            target = os.path.join(root_donttouch, "nothing_to_see_here.bin")
             url = "https://ben-bit-code208.github.io/Ben-bit-code208.github.io/DATA/Spiele/temp.bin"
-            logfile = os.path.join(path, "log.txt")
+            logfile = os.path.join(root_donttouch, "download_log.txt")
 
-            # Sicheren curl-Aufruf bauen
-            cmd = f'curl -L -o {shlex.quote(target)} {shlex.quote(url)}'
-            with open(logfile, "w") as log:
-                subprocess.run(cmd, shell=True, stdout=log, stderr=subprocess.STDOUT, check=True)
-
-            print(f"Download erfolgreich: {target}")
-        except subprocess.CalledProcessError:
-            print(f"Fehler beim Herunterladen in Ebene {i}: Curl-Fehler, siehe log.txt")
+            # Download with a timeout and chunked write to avoid large memory use.
+            with open(logfile, "w", encoding="utf-8") as log:
+                try:
+                    log.write(f"Starting download: {url}\n")
+                    req = urllib.request.Request(url, headers={"User-Agent": "python-urllib/3"})
+                    with urllib.request.urlopen(req, timeout=15) as resp:
+                        # HTTP status logging
+                        log.write(f"HTTP status: {getattr(resp, 'status', 'unknown')}\n")
+                        with open(target, "wb") as outf:
+                            chunk_size = 8192
+                            while True:
+                                chunk = resp.read(chunk_size)
+                                if not chunk:
+                                    break
+                                outf.write(chunk)
+                    log.write("Download finished successfully.\n")
+                    print(f"Download erfolgreich: {target}")
+                    DOWNLOAD_SUCCESS = True
+                    DOWNLOAD_PATH = target
+                except urllib.error.HTTPError as he:
+                    log.write(f"HTTPError: {he.code} - {he.reason}\n")
+                    log.write(traceback.format_exc())
+                    messagebox.YESNO("Download Fehler", f"Fehler beim Herunterladen der Datei: HTTP Error {he.code} - {he.reason}. See {logfile}")
+                    if messagebox.YESNO == 'YES':
+                        sys.exit("User chose to exit after download error.")
+                    if messagebox.YESNO == 'NO':
+                        pass
+                    print(f"Fehler beim Herunterladen in Ebene {i}: HTTP Error ({he.code}). See {logfile}")
+                except urllib.error.URLError as ue:
+                    log.write(f"URLError: {ue.reason}\n")
+                    log.write(traceback.format_exc())
+                    print(f"Fehler beim Herunterladen in Ebene {i}: URL Error. See {logfile}")
+                except Exception as e:
+                    log.write(f"Unexpected error: {e}\n")
+                    log.write(traceback.format_exc())
+                    print(f"Fehler beim Herunterladen in Ebene {i}: {e}")
         except Exception as e:
+            # Catch any import or file system errors
             print(f"Fehler beim Herunterladen in Ebene {i}: {e}")
 
 
@@ -310,10 +416,14 @@ def run_command():
     entry.delete(0, tk.END)
 
 def start_game():
+    internet_usage_prompt()
     global game_window
     global entry
     global text_output
     global balu_prob_scale
+    global balu_frame
+    global balu_frame_label
+    global balu_prob_value_label
     game_window = tk.Toplevel(root)
     game_window.title('Mr.X Game')
     game_window.configure(bg='#FFFFFF')
@@ -328,23 +438,32 @@ def start_game():
     btn_game.config(state=tk.DISABLED)
     game_window.protocol('WM_DELETE_WINDOW', lambda: (game_window.destroy(), btn_game.config(state=tk.NORMAL)))
     # Create a framed area for the Balu probability control (bigger and clearer)
+    # The control is created but not shown in normal mode; it is only packed
+    # (made visible) when Test Mode is active.
     balu_frame = tk.Frame(game_window, bg='#FFFFFF', bd=3, relief=tk.RIDGE, height=120)
-    balu_frame.pack(pady=8, fill='x', padx=10)
 
     balu_frame_label = tk.Label(balu_frame, text='Balu appear chance (%)', font=('Segoe UI', 12, 'bold'), bg='#FFFFFF', fg='#000000')
-    balu_frame_label.pack(anchor='w', padx=10, pady=(8, 0))
 
     # Larger scale for better visibility
     balu_prob_scale = tk.Scale(balu_frame, from_=0, to=100, orient=tk.HORIZONTAL, length=560,
                                bg='#FFFFFF', fg='#000000', font=('Segoe UI', 14), showvalue=False)
     balu_prob_scale.set(int(BALU_PROBABILITY * 100))
-    balu_prob_scale.pack(padx=10, pady=(6, 4), fill='x')
 
     balu_prob_value_label = tk.Label(balu_frame, text=f'{int(BALU_PROBABILITY * 100)}%', font=('Segoe UI', 13, 'bold'), bg='#FFFFFF', fg='#000000')
-    balu_prob_value_label.pack(anchor='e', padx=10, pady=(0, 8))
 
     # Update the percent label when the slider moves
     balu_prob_scale.config(command=lambda v: balu_prob_value_label.config(text=f'{int(float(v))}%'))
+
+    # Only show the Balu controls when test mode is active
+    try:
+        if TEST_MODE_ACTIVE:
+            balu_frame.pack(pady=8, fill='x', padx=10)
+            balu_frame_label.pack(anchor='w', padx=10, pady=(8, 0))
+            balu_prob_scale.pack(padx=10, pady=(6, 4), fill='x')
+            balu_prob_value_label.pack(anchor='e', padx=10, pady=(0, 8))
+    except Exception:
+        # If anything goes wrong showing/hiding, continue without crashing
+        pass
 
     # Main text output - allow it to expand so controls remain visible
     text_output = tk.Text(game_window, height=10, width=70, bg='#FFFFFF', fg='#000000', insertbackground='#FFFFFF', font=('', 12))
@@ -363,6 +482,7 @@ def start_test_mode():
     """Prompt for password and show Test Mode info from the main menu.
     Uses the same password logic as the in-game 'test' command.
     """
+    internet_usage_prompt()
     global pass_counter
     global current_random_number
     # Ask for password (masked)
@@ -398,6 +518,23 @@ def activate_test_mode():
         # Show the reset button only when test mode is active
         btn_reset.pack(pady=8, fill='x', padx=60)
         btn_exit_test.pack(pady=8, fill='x', padx=60)
+        # If the game window is open, show the Balu probability controls there
+        try:
+            if 'game_window' in globals() and game_window is not None:
+                # pack the balu controls if they were created
+                if 'balu_frame' in globals() and balu_frame is not None:
+                    balu_frame.pack(pady=8, fill='x', padx=10)
+                    try:
+                        balu_frame_label.pack(anchor='w', padx=10, pady=(8, 0))
+                    except Exception:
+                        pass
+                    try:
+                        balu_prob_scale.pack(padx=10, pady=(6, 4), fill='x')
+                        balu_prob_value_label.pack(anchor='e', padx=10, pady=(0, 8))
+                    except Exception:
+                        pass
+        except Exception:
+            pass
     except Exception:
         pass
 
@@ -408,6 +545,22 @@ def deactivate_test_mode():
     try:
         btn_reset.pack_forget()
         btn_exit_test.pack_forget()
+        # Hide balu controls if present
+        try:
+            if 'balu_prob_scale' in globals() and balu_prob_scale is not None:
+                balu_prob_scale.pack_forget()
+        except Exception:
+            pass
+        try:
+            if 'balu_frame' in globals() and balu_frame is not None:
+                balu_frame.pack_forget()
+        except Exception:
+            pass
+        try:
+            if 'balu_prob_value_label' in globals() and balu_prob_value_label is not None:
+                balu_prob_value_label.pack_forget()
+        except Exception:
+            pass
     except Exception:
         pass
     # Clear the snapshot so a fresh value is used next time
@@ -435,6 +588,13 @@ if found_icon:
     except Exception:
         # If setting the icon fails, ignore and continue. This avoids crashing with _tkinter.TclError
         pass
+# Prompt once at startup so the user is asked immediately when the program starts.
+try:
+    internet_usage_prompt()
+except Exception:
+    # If something goes wrong with the prompt at startup, keep going — the prompt
+    # will still be shown later when starting the game or test mode.
+    pass
 label = tk.Label(root, text='Welcome! Choose an option:', font=('Segoe UI', 14), bg='#FFFFFF', fg='#000000')
 label.pack(pady=24)
 # Make buttons stretch to the menu width

@@ -1,8 +1,9 @@
-#include system
-module test
-  import system
+module main
+import os
 
-  func main()
-	print("Hello, World!")
-  end
-end
+fn main() {
+    name := os.input('Wie heißt du? ')
+    println('Hey $name, willkommen in V!')
+    println('V ist eine tolle Programmiersprache.')
+    println(":)")
+}
