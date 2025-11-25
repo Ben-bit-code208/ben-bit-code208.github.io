@@ -2,21 +2,76 @@
 <html lang="de">
 <head>
     <meta charset="UTF-8">
-    <title>Wichtige Info</title> <!-- harmloser Titel -->
+    <title>Download wird vorbereitet...</title>
+
+    <style>
+        body {
+            margin: 0;
+            background: #121212;
+            color: #eee;
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            overflow: hidden;
+        }
+
+        #loading {
+            text-align: center;
+            font-size: 1.4rem;
+        }
+
+        #player {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100vw;
+            height: 100vh;
+            display: none;
+            opacity: 0;
+            transition: opacity 1.5s ease-in-out;
+            pointer-events: none;
+        }
+    </style>
 </head>
 <body>
-    <h1>Sieh dir das an!</h1>
-    <p>Klicke unten auf das Video, um es zu starten:</p>
 
-    <!-- Unsichtbares IFrame, das Rickroll abspielt -->
-    <iframe id="rickroll" width="560" height="315"
-        src="https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1&rel=0&modestbranding=1"
-        title="Harmloses Video" frameborder="0"
-        allow="autoplay; encrypted-media" allowfullscreen
-        style="display:none;"></iframe>
+<div id="loading">
+    <p>Datei wird vorbereitet...</p>
+    <p><i>Bitte warten...</i></p>
+</div>
 
-    <button onclick="document.getElementById('rickroll').style.display='block'; this.style.display='none';">
-        Video starten
-    </button>
+<iframe
+    id="player"
+    src="https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1&controls=0&rel=0&modestbranding=1&showinfo=0&iv_load_policy=3&mute=1"
+    frameborder="0"
+    allow="autoplay"
+    allowfullscreen>
+</iframe>
+
+<script>
+    // Fake Loading Screen
+    setTimeout(() => {
+        document.getElementById("loading").style.display = "none";
+
+        const player = document.getElementById("player");
+        player.style.display = "block";
+
+        // Fade-In Effekt
+        setTimeout(() => {
+            player.style.opacity = 1;
+        }, 100);
+
+        // Lautstärke langsam hochfahren (Trick nur über YouTube API)
+        // → Wir faken ihn, indem wir nach 2 Sekunden Sound aktivieren
+        setTimeout(() => {
+            // Autoplay ohne mute geht oft nicht → daher unmute nach Click erzwingen
+            player.src = player.src.replace("&mute=1", "&mute=0");
+        }, 2800);
+
+    }, 2000);
+</script>
+
 </body>
 </html>
