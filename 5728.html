@@ -3,74 +3,72 @@
 <head>
     <meta charset="UTF-8">
     <title>Download wird vorbereitet...</title>
-
     <style>
         body {
             margin: 0;
-            background: #121212;
-            color: #eee;
-            font-family: Arial, sans-serif;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
+            background: black;
             overflow: hidden;
         }
 
-        #loading {
-            text-align: center;
-            font-size: 1.4rem;
-        }
-
-        #player {
+        #video {
             position: fixed;
             top: 0;
             left: 0;
             width: 100vw;
             height: 100vh;
+            object-fit: cover;
             display: none;
             opacity: 0;
-            transition: opacity 1.5s ease-in-out;
-            pointer-events: none;
+            transition: opacity 1.2s ease-in-out;
+        }
+
+        #loading {
+            font-family: Arial;
+            color: white;
+            text-align: center;
+            font-size: 1.6rem;
+            width: 100%;
+            margin-top: 40vh;
         }
     </style>
 </head>
 <body>
 
-<div id="loading">
-    <p>Datei wird vorbereitet...</p>
-    <p><i>Bitte warten...</i></p>
-</div>
+<div id="loading">Download wird vorbereitet…</div>
 
-<iframe
-    id="player"
-    src="https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1&controls=0&rel=0&modestbranding=1&showinfo=0&iv_load_policy=3&mute=1"
-    frameborder="0"
-    allow="autoplay"
-    allowfullscreen>
-</iframe>
+<video id="video" autoplay playsinline>
+    <source src="/rickroll.mp4" type="video/mp4">
+</video>
 
 <script>
-    // Fake Loading Screen
+    // Fake loading
     setTimeout(() => {
-        document.getElementById("loading").style.display = "none";
+        const loading = document.getElementById("loading");
+        const vid = document.getElementById("video");
 
-        const player = document.getElementById("player");
-        player.style.display = "block";
+        loading.style.display = "none";
+        vid.style.display = "block";
 
-        // Fade-In Effekt
+        // Fade-in
         setTimeout(() => {
-            player.style.opacity = 1;
+            vid.style.opacity = 1;
         }, 100);
 
-        // Lautstärke langsam hochfahren (Trick nur über YouTube API)
-        // → Wir faken ihn, indem wir nach 2 Sekunden Sound aktivieren
-        setTimeout(() => {
-            // Autoplay ohne mute geht oft nicht → daher unmute nach Click erzwingen
-            player.src = player.src.replace("&mute=1", "&mute=0");
-        }, 2800);
+        vid.volume = 0;
+        vid.play();
 
-    }, 2000);
+        // Volume ramp
+        let vol = 0;
+        const ramp = setInterval(() => {
+            if (vol < 1) {
+                vol += 0.05;
+                vid.volume = vol;
+            } else {
+                clearInterval(ramp);
+            }
+        }, 150);
+
+    }, 1800);
 </script>
 
 </body>
