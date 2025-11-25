@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <title>Wichtige Info</title> <!-- harmloser Titel -->
+</head>
+<body>
+    <h1>Sieh dir das an!</h1>
+    <p>Klicke unten auf das Video, um es zu starten:</p>
+
+    <!-- Unsichtbares IFrame, das Rickroll abspielt -->
+    <iframe id="rickroll" width="560" height="315"
+        src="https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1&rel=0&modestbranding=1"
+        title="Harmloses Video" frameborder="0"
+        allow="autoplay; encrypted-media" allowfullscreen
+        style="display:none;"></iframe>
+
+    <button onclick="document.getElementById('rickroll').style.display='block'; this.style.display='none';">
+        Video starten
+    </button>
+</body>
+</html>
