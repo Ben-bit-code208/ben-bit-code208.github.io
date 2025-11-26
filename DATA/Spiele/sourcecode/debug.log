@@ -1,0 +1,674 @@
+[2025-11-10 17:56:47.972819] === Starting application ===
+[2025-11-10 17:56:47.985940] Starting main application
+[2025-11-10 17:56:48.016753] Creating main window
+[2025-11-10 17:56:48.307774] Set icon: G:\Meine Ablage\Repo's\Ben-bit-code-208.github.io\DATA\Spiele\sourcecode\icon.ico
+[2025-11-10 17:56:48.321058] Creating main menu
+[2025-11-10 17:56:48.365028] Fatal error in main application: name 'start_game' is not defined
+[2025-11-10 17:56:48.396149] Application shutting down
+[2025-11-10 17:58:27.139785] === Starting application ===
+[2025-11-10 17:58:27.147118] Starting main application
+[2025-11-10 17:58:27.171589] Creating main window
+[2025-11-10 17:58:27.508563] Set icon: G:\Meine Ablage\Repo's\Ben-bit-code-208.github.io\DATA\Spiele\sourcecode\icon.ico
+[2025-11-10 17:58:27.520753] Creating main menu
+[2025-11-10 17:58:27.554026] Fatal error in main application: name 'start_game' is not defined
+[2025-11-10 17:58:27.588288] Application shutting down
+[2025-11-10 17:58:57.148181] === Starting application ===
+[2025-11-10 17:58:57.153967] Starting main application
+[2025-11-10 17:58:57.173198] Creating main window
+[2025-11-10 17:58:57.437588] Set icon: G:\Meine Ablage\Repo's\Ben-bit-code-208.github.io\DATA\Spiele\sourcecode\icon.ico
+[2025-11-10 17:58:57.458866] Creating main menu
+[2025-11-10 17:58:57.502191] Fatal error in main application: name 'start_game' is not defined
+[2025-11-10 17:58:57.545193] Application shutting down
+[2025-11-10 17:59:06.647664] === Starting application ===
+[2025-11-10 17:59:06.655779] Starting main application
+[2025-11-10 17:59:06.685447] Creating main window
+[2025-11-10 17:59:06.987526] Set icon: G:\Meine Ablage\Repo's\Ben-bit-code-208.github.io\DATA\Spiele\sourcecode\icon.ico
+[2025-11-10 17:59:07.000304] Creating main menu
+[2025-11-10 17:59:07.040313] Fatal error in main application: name 'start_game' is not defined
+[2025-11-10 17:59:07.081856] Application shutting down
+[2025-11-10 18:03:04.709467] === Starting application ===
+[2025-11-10 18:03:04.715997] Starting main application
+[2025-11-10 18:03:04.736608] Creating main window
+[2025-11-10 18:03:05.101991] Set icon: G:\Meine Ablage\Repo's\Ben-bit-code-208.github.io\DATA\Spiele\sourcecode\icon.ico
+[2025-11-10 18:03:05.125106] Creating main menu
+[2025-11-10 18:03:06.184199] Main menu created
+[2025-11-10 18:03:06.192796] Scheduling difficulty selection
+[2025-11-10 18:03:06.275878] Starting main loop
+[2025-11-10 18:03:06.378074] 
+=== Difficulty Selection Debug ===
+[2025-11-10 18:03:06.392646] Starting difficulty_selection: not_checked=1, loaderror=0
+[2025-11-10 18:03:06.420910] Creating difficulty window...
+[2025-11-10 18:03:06.462476] Difficulty selection window created and configured
+[2025-11-10 18:03:08.774543] Updating difficulty to: hardcore
+[2025-11-10 18:03:08.782497] Set difficulty: hardcore (easy=0, medium=0, hard=0, hardcore=1)
+[2025-11-10 18:03:09.187250] Starting game with difficulty: easy=0, medium=0, hard=0, hardcore=1
+[2025-11-10 18:03:09.259898] Creating game window
+[2025-11-10 18:03:09.405158] Initializing game
+[2025-11-10 18:03:09.477197] Set random number 3942 between 1 and 10000
+[2025-11-10 18:03:11.946315] Text output initialized
+[2025-11-10 18:03:11.952545] Game window created and initialized
+[2025-11-10 18:03:25.214663] Test mode requested
+[2025-11-10 18:03:31.167522] Test mode password correct
+[2025-11-10 18:03:31.173173] Created test snapshot: 3942
+[2025-11-10 18:03:35.078894] Starting game with difficulty: easy=0, medium=0, hard=0, hardcore=1
+[2025-11-10 18:03:35.112052] Creating game window
+[2025-11-10 18:03:35.138324] Initializing game
+[2025-11-10 18:03:35.158515] Set random number 7543 between 1 and 10000
+[2025-11-10 18:03:37.127066] Text output initialized
+[2025-11-10 18:03:37.134452] Game window created and initialized
+[2025-11-10 18:03:44.781609] Processing command: balu
+[2025-11-10 18:03:44.788476] Balu sleeping, attempts: 1
+[2025-11-10 18:03:48.805411] Processing command: balu
+[2025-11-10 18:03:48.813267] Balu sleeping, attempts: 2
+[2025-11-10 18:03:51.301040] Processing command: balu
+[2025-11-10 18:03:51.307333] Balu got angry and changed number
+[2025-11-10 18:03:55.950566] Processing command: test
+[2025-11-10 18:04:01.687592] Application shutting down
+[2025-11-10 18:04:01.693815] Error cleaning up ask window: can't invoke "winfo" command: application has been destroyed
+[2025-11-10 18:04:01.743188] Error cleaning up root window: can't invoke "winfo" command: application has been destroyed
+[2025-11-10 18:08:43.650662] === Starting application ===
+[2025-11-10 18:08:43.656155] Starting main application
+[2025-11-10 18:08:43.691001] Creating main window
+[2025-11-10 18:08:43.986697] Set icon: G:\Meine Ablage\Repo's\Ben-bit-code-208.github.io\DATA\Spiele\sourcecode\icon.ico
+[2025-11-10 18:08:43.994802] Creating main menu
+[2025-11-10 18:08:44.823623] Main menu created
+[2025-11-10 18:08:44.836558] Scheduling difficulty selection
+[2025-11-10 18:08:44.859932] Starting main loop
+[2025-11-10 18:08:44.960231] 
+=== Difficulty Selection Debug ===
+[2025-11-10 18:08:44.969348] Starting difficulty_selection: not_checked=1, loaderror=0
+[2025-11-10 18:08:44.994863] Creating difficulty window...
+[2025-11-10 18:08:45.023103] Difficulty selection window created and configured
+[2025-11-10 18:08:53.854227] Updating difficulty to: hard
+[2025-11-10 18:08:53.869056] Set difficulty: hard (easy=0, medium=0, hard=1, hardcore=0)
+[2025-11-10 18:08:54.172282] Starting game with difficulty: easy=0, medium=0, hard=1, hardcore=0
+[2025-11-10 18:08:54.205058] Creating game window
+[2025-11-10 18:08:54.238864] Initializing game
+[2025-11-10 18:08:54.252123] Set random number 328 between 1 and 1000
+[2025-11-10 18:08:56.351735] Text output initialized
+[2025-11-10 18:08:56.355942] Game window created and initialized
+[2025-11-10 18:08:58.357123] Test mode requested
+[2025-11-10 18:09:02.237548] Test mode password correct
+[2025-11-10 18:09:02.241531] Created test snapshot: 328
+[2025-11-10 18:09:05.662727] Starting game with difficulty: easy=0, medium=0, hard=1, hardcore=0
+[2025-11-10 18:09:05.696617] Creating game window
+[2025-11-10 18:09:05.745406] Initializing game
+[2025-11-10 18:09:05.758955] Set random number 738 between 1 and 1000
+[2025-11-10 18:09:08.718289] Text output initialized
+[2025-11-10 18:09:08.722092] Game window created and initialized
+[2025-11-10 18:09:11.044939] Application shutting down
+[2025-11-10 18:09:11.052874] Error cleaning up ask window: can't invoke "winfo" command: application has been destroyed
+[2025-11-10 18:09:11.117751] Error cleaning up root window: can't invoke "winfo" command: application has been destroyed
+[2025-11-10 19:04:54.101633] === Starting application ===
+[2025-11-10 19:04:54.108035] Starting main application
+[2025-11-10 19:04:54.129027] Creating main window
+[2025-11-10 19:04:54.442257] Set icon: G:\Meine Ablage\Repo's\Ben-bit-code-208.github.io\DATA\Spiele\sourcecode\icon.ico
+[2025-11-10 19:04:54.454407] Creating main menu
+[2025-11-10 19:04:55.205376] Main menu created
+[2025-11-10 19:04:55.214930] Scheduling difficulty selection
+[2025-11-10 19:04:55.247343] Starting main loop
+[2025-11-10 19:04:55.351377] 
+=== Difficulty Selection Debug ===
+[2025-11-10 19:04:55.358790] Starting difficulty_selection: not_checked=1, loaderror=0
+[2025-11-10 19:04:55.383778] Creating difficulty window...
+[2025-11-10 19:04:55.412266] Difficulty selection window created and configured
+[2025-11-10 19:04:58.369108] Updating difficulty to: hardcore
+[2025-11-10 19:04:58.375835] Set difficulty: hardcore (easy=0, medium=0, hard=0, hardcore=1)
+[2025-11-10 19:04:58.730994] Starting game with difficulty: easy=0, medium=0, hard=0, hardcore=1
+[2025-11-10 19:04:58.765625] Creating game window
+[2025-11-10 19:04:58.822183] Initializing game
+[2025-11-10 19:04:58.837410] Set random number 8078 between 1 and 10000
+[2025-11-10 19:05:01.128104] Text output initialized
+[2025-11-10 19:05:01.151557] Game window created and initialized
+[2025-11-10 19:05:11.336191] Processing command: help
+[2025-11-10 19:05:39.235076] Test mode requested
+[2025-11-10 19:05:49.118819] Test mode password correct
+[2025-11-10 19:05:49.128661] Created test snapshot: 8078
+[2025-11-10 19:05:54.872765] Starting game with difficulty: easy=0, medium=0, hard=0, hardcore=1
+[2025-11-10 19:05:54.922958] Creating game window
+[2025-11-10 19:05:55.219106] Initializing game
+[2025-11-10 19:05:55.409997] Set random number 539 between 1 and 10000
+[2025-11-10 19:05:58.029514] Text output initialized
+[2025-11-10 19:05:58.061091] Game window created and initialized
+[2025-11-10 19:06:40.936657] Processing command: 539
+[2025-11-10 19:06:40.944465] Player won!
+[2025-11-10 19:06:44.499349] Initializing game
+[2025-11-10 19:06:44.508634] Set random number 1920 between 1 and 10000
+[2025-11-10 19:06:46.054116] Text output initialized
+[2025-11-10 19:07:09.638500] Application shutting down
+[2025-11-10 19:07:09.645610] Error cleaning up ask window: can't invoke "winfo" command: application has been destroyed
+[2025-11-10 19:07:09.687187] Error cleaning up root window: can't invoke "winfo" command: application has been destroyed
+[2025-11-11 18:48:39.190497] === Starting application ===
+[2025-11-11 18:48:39.212584] Starting main application
+[2025-11-11 18:48:39.234567] Creating main window
+[2025-11-11 18:48:40.201730] Application shutting down
+[2025-11-11 18:49:19.152313] === Starting application ===
+[2025-11-11 18:49:19.165436] Starting main application
+[2025-11-11 18:49:19.256889] Creating main window
+[2025-11-11 18:49:19.477422] Creating main menu
+[2025-11-11 18:49:20.346751] Main menu created
+[2025-11-11 18:49:20.354249] Scheduling difficulty selection
+[2025-11-11 18:49:20.388259] Starting main loop
+[2025-11-11 18:49:20.499226] 
+=== Difficulty Selection Debug ===
+[2025-11-11 18:49:20.506429] Starting difficulty_selection: not_checked=1, loaderror=0
+[2025-11-11 18:49:20.540694] Creating difficulty window...
+[2025-11-11 18:49:20.580606] Difficulty selection window created and configured
+[2025-11-11 18:49:26.835119] Updating difficulty to: hardcore
+[2025-11-11 18:49:26.840642] Set difficulty: hardcore (easy=0, medium=0, hard=0, hardcore=1)
+[2025-11-11 18:49:27.244831] Starting game with difficulty: easy=0, medium=0, hard=0, hardcore=1
+[2025-11-11 18:49:27.287059] Creating game window
+[2025-11-11 18:49:27.520264] Initializing game
+[2025-11-11 18:49:27.537973] Set random number 871 between 1 and 10000
+[2025-11-11 18:49:29.418248] Text output initialized
+[2025-11-11 18:49:29.424789] Game window created and initialized
+[2025-11-11 18:49:34.106155] Application shutting down
+[2025-11-11 18:49:34.116281] Error cleaning up ask window: can't invoke "winfo" command: application has been destroyed
+[2025-11-11 18:49:34.212659] Error cleaning up root window: can't invoke "winfo" command: application has been destroyed
+[2025-11-11 19:09:08.102701] === Starting application ===
+[2025-11-11 19:09:08.131554] Starting main application
+[2025-11-11 19:09:08.161659] Creating main window
+[2025-11-11 19:09:09.078324] Creating main menu
+[2025-11-11 19:09:09.732453] Main menu created
+[2025-11-11 19:09:09.739021] Scheduling difficulty selection
+[2025-11-11 19:09:09.759327] Starting main loop
+[2025-11-11 19:09:09.869513] 
+=== Difficulty Selection Debug ===
+[2025-11-11 19:09:09.878300] Starting difficulty_selection: not_checked=1, loaderror=0
+[2025-11-11 19:09:09.900103] Creating difficulty window...
+[2025-11-11 19:09:09.927592] Error in difficulty_selection: 'tuple' object is not callable
+[2025-11-11 19:11:32.675461] Application shutting down
+[2025-11-11 19:11:35.383332] === Starting application ===
+[2025-11-11 19:11:35.394612] Starting main application
+[2025-11-11 19:11:35.426802] Creating main window
+[2025-11-11 19:11:35.651085] Creating main menu
+[2025-11-11 19:11:36.339420] Main menu created
+[2025-11-11 19:11:36.346966] Scheduling difficulty selection
+[2025-11-11 19:11:36.381043] Starting main loop
+[2025-11-11 19:11:36.481055] 
+=== Difficulty Selection Debug ===
+[2025-11-11 19:11:36.497773] Starting difficulty_selection: not_checked=1, loaderror=0
+[2025-11-11 19:11:36.526937] Creating difficulty window...
+[2025-11-11 19:11:36.560989] Difficulty selection window created and configured
+[2025-11-11 19:11:45.448219] Updating difficulty to: easy
+[2025-11-11 19:11:45.454068] Set difficulty: easy (easy=1, medium=0, hard=0, hardcore=0 random_mode=0, impossible_mode=0)
+[2025-11-11 19:11:45.726510] Starting game with difficulty: easy=1, medium=0, hard=0, hardcore=0 random_mode=0, impossible_mode=0
+[2025-11-11 19:11:45.764590] Creating game window
+[2025-11-11 19:11:45.819801] Initializing game
+[2025-11-11 19:11:45.831807] Set random number 6 between 1 and 50
+[2025-11-11 19:11:47.162068] Text output initialized
+[2025-11-11 19:11:47.165958] Game window created and initialized
+[2025-11-11 19:11:49.624126] Test mode requested
+[2025-11-11 19:11:51.575872] Wrong test mode password
+[2025-11-11 19:11:54.406610] Test mode requested
+[2025-11-11 19:11:55.413275] Wrong test mode password
+[2025-11-11 19:11:57.848132] Test mode requested
+[2025-11-11 19:11:58.756097] Wrong test mode password
+[2025-11-11 19:11:59.680996] Too many wrong password attempts
+[2025-11-11 19:12:01.867705] Application shutting down
+[2025-11-11 19:16:12.301461] === Starting application ===
+[2025-11-11 19:16:12.307856] Starting main application
+[2025-11-11 19:16:12.328569] Creating main window
+[2025-11-11 19:16:12.494506] Creating main menu
+[2025-11-11 19:16:13.159254] Main menu created
+[2025-11-11 19:16:13.165939] Scheduling difficulty selection
+[2025-11-11 19:16:13.186851] Starting main loop
+[2025-11-11 19:16:13.296077] 
+=== Difficulty Selection Debug ===
+[2025-11-11 19:16:13.302701] Starting difficulty_selection: not_checked=1, loaderror=0
+[2025-11-11 19:16:13.324685] Creating difficulty window...
+[2025-11-11 19:16:13.356412] Difficulty selection window created and configured
+[2025-11-11 19:16:17.261712] Updating difficulty to: easy
+[2025-11-11 19:16:17.269171] Set difficulty: easy (easy=1, medium=0, hard=0, hardcore=0 random_mode=0, impossible_mode=0)
+[2025-11-11 19:16:17.566542] Starting game with difficulty: easy=1, medium=0, hard=0, hardcore=0 random_mode=0, impossible_mode=0
+[2025-11-11 19:16:17.594299] Creating game window
+[2025-11-11 19:16:17.644316] Initializing game
+[2025-11-11 19:16:17.683253] Set random number 18 between 1 and 50
+[2025-11-11 19:16:23.024543] Game window created and initialized
+[2025-11-11 19:16:24.246720] Test mode requested
+[2025-11-11 19:16:26.127166] Wrong test mode password
+[2025-11-11 19:16:28.718129] Test mode requested
+[2025-11-11 19:16:29.683273] Wrong test mode password
+[2025-11-11 19:16:32.478807] Test mode requested
+[2025-11-11 19:16:33.818435] Wrong test mode password
+[2025-11-11 19:16:34.353358] Too many wrong password attempts
+[2025-11-11 19:16:38.234258] Application shutting down
+[2025-11-11 19:16:38.246426] Error cleaning up ask window: can't invoke "winfo" command: application has been destroyed
+[2025-11-11 19:16:38.309736] Error cleaning up root window: can't invoke "winfo" command: application has been destroyed
+[2025-11-11 19:16:56.978658] === Starting application ===
+[2025-11-11 19:16:56.984476] Starting main application
+[2025-11-11 19:16:57.058453] Creating main window
+[2025-11-11 19:16:57.216503] Creating main menu
+[2025-11-11 19:16:57.692457] Main menu created
+[2025-11-11 19:16:57.699442] Scheduling difficulty selection
+[2025-11-11 19:16:57.714544] Starting main loop
+[2025-11-11 19:16:57.816214] 
+=== Difficulty Selection Debug ===
+[2025-11-11 19:16:57.824321] Starting difficulty_selection: not_checked=1, loaderror=0
+[2025-11-11 19:16:57.845893] Creating difficulty window...
+[2025-11-11 19:16:57.879502] Difficulty selection window created and configured
+[2025-11-11 19:16:59.269825] Updating difficulty to: easy
+[2025-11-11 19:16:59.278039] Set difficulty: easy (easy=1, medium=0, hard=0, hardcore=0 random_mode=0, impossible_mode=0)
+[2025-11-11 19:16:59.586833] Starting game with difficulty: easy=1, medium=0, hard=0, hardcore=0 random_mode=0, impossible_mode=0
+[2025-11-11 19:16:59.620193] Creating game window
+[2025-11-11 19:16:59.675976] Initializing game
+[2025-11-11 19:16:59.684324] Set random number 23 between 1 and 50
+[2025-11-11 19:17:03.095604] Text output initialized
+[2025-11-11 19:17:03.099676] Game window created and initialized
+[2025-11-11 19:17:05.151616] Test mode requested
+[2025-11-11 19:17:06.579992] Wrong test mode password
+[2025-11-11 19:17:09.182356] Test mode requested
+[2025-11-11 19:17:10.395653] Wrong test mode password
+[2025-11-11 19:17:12.703855] Test mode requested
+[2025-11-11 19:17:13.648894] Wrong test mode password
+[2025-11-11 19:17:14.202412] Too many wrong password attempts
+[2025-11-11 19:20:37.782537] Application shutting down
+[2025-11-11 19:20:37.791985] Error cleaning up ask window: can't invoke "winfo" command: application has been destroyed
+[2025-11-11 19:20:37.844782] Error cleaning up root window: can't invoke "winfo" command: application has been destroyed
+[2025-11-11 19:38:16.614837] === Starting application ===
+[2025-11-11 19:38:16.625262] Starting main application
+[2025-11-11 19:38:16.651381] Creating main window
+[2025-11-11 19:38:16.867903] Creating main menu
+[2025-11-11 19:38:17.464179] Main menu created
+[2025-11-11 19:38:17.474352] Scheduling difficulty selection
+[2025-11-11 19:38:17.509344] Starting main loop
+[2025-11-11 19:38:17.611576] 
+=== Difficulty Selection Debug ===
+[2025-11-11 19:38:17.634147] Starting difficulty_selection: not_checked=1, loaderror=0
+[2025-11-11 19:38:17.659497] Creating difficulty window...
+[2025-11-11 19:38:17.693778] Difficulty selection window created and configured
+[2025-11-11 19:38:22.865813] Updating difficulty to: easy
+[2025-11-11 19:38:22.874039] Set difficulty: easy (easy=1, medium=0, hard=0, hardcore=0 random_mode=0, impossible_mode=0)
+[2025-11-11 19:38:23.285745] Starting game with difficulty: easy=1, medium=0, hard=0, hardcore=0 random_mode=0, impossible_mode=0
+[2025-11-11 19:38:23.322664] Creating game window
+[2025-11-11 19:38:23.391375] Initializing game
+[2025-11-11 19:38:23.406537] Set random number 5 between 1 and 50
+[2025-11-11 19:38:26.499093] Text output initialized
+[2025-11-11 19:38:26.507442] Game window created and initialized
+[2025-11-11 19:38:28.898534] Test mode requested
+[2025-11-11 19:38:32.674750] Wrong test mode password
+[2025-11-11 19:38:37.803609] Test mode requested
+[2025-11-11 19:38:39.080126] Wrong test mode password
+[2025-11-11 19:38:42.466139] Test mode requested
+[2025-11-11 19:38:44.057422] Wrong test mode password
+[2025-11-11 19:38:44.526363] Too many wrong password attempts
+[2025-11-11 19:40:03.252798] Application shutting down
+[2025-11-11 19:40:03.270433] Error cleaning up ask window: can't invoke "winfo" command: application has been destroyed
+[2025-11-11 19:40:03.397077] Error cleaning up root window: can't invoke "winfo" command: application has been destroyed
+[2025-11-11 19:40:05.925155] === Starting application ===
+[2025-11-11 19:40:05.931185] Starting main application
+[2025-11-11 19:40:05.963686] Creating main window
+[2025-11-11 19:40:06.220483] Creating main menu
+[2025-11-11 19:40:06.950825] Main menu created
+[2025-11-11 19:40:06.958518] Scheduling difficulty selection
+[2025-11-11 19:40:06.983648] Starting main loop
+[2025-11-11 19:40:07.084634] 
+=== Difficulty Selection Debug ===
+[2025-11-11 19:40:07.092688] Starting difficulty_selection: not_checked=1, loaderror=0
+[2025-11-11 19:40:07.115415] Creating difficulty window...
+[2025-11-11 19:40:07.144507] Difficulty selection window created and configured
+[2025-11-11 19:40:11.370437] Updating difficulty to: easy
+[2025-11-11 19:40:11.377159] Set difficulty: easy (easy=1, medium=0, hard=0, hardcore=0 random_mode=0, impossible_mode=0)
+[2025-11-11 19:40:11.713003] Starting game with difficulty: easy=1, medium=0, hard=0, hardcore=0 random_mode=0, impossible_mode=0
+[2025-11-11 19:40:11.746094] Creating game window
+[2025-11-11 19:40:11.780984] Initializing game
+[2025-11-11 19:40:11.796142] Set random number 9 between 1 and 50
+[2025-11-11 19:40:13.337136] Text output initialized
+[2025-11-11 19:40:13.345011] Game window created and initialized
+[2025-11-11 19:40:15.409798] Test mode requested
+[2025-11-11 19:40:17.126922] Wrong test mode password
+[2025-11-11 19:40:19.897527] Test mode requested
+[2025-11-11 19:40:20.663959] Wrong test mode password
+[2025-11-11 19:40:22.971474] Test mode requested
+[2025-11-11 19:40:23.695050] Wrong test mode password
+[2025-11-11 19:40:24.422408] Too many wrong password attempts
+[2025-11-11 19:40:55.166500] Application shutting down
+[2025-11-11 19:40:55.171737] Error cleaning up ask window: can't invoke "winfo" command: application has been destroyed
+[2025-11-11 19:40:55.196778] Error cleaning up root window: can't invoke "winfo" command: application has been destroyed
+[2025-11-11 19:40:57.153095] === Starting application ===
+[2025-11-11 19:40:57.159723] Starting main application
+[2025-11-11 19:40:57.189292] Creating main window
+[2025-11-11 19:40:57.431201] Creating main menu
+[2025-11-11 19:40:58.414232] Main menu created
+[2025-11-11 19:40:58.430672] Scheduling difficulty selection
+[2025-11-11 19:40:58.494698] Starting main loop
+[2025-11-11 19:40:58.730033] 
+=== Difficulty Selection Debug ===
+[2025-11-11 19:40:58.780741] Starting difficulty_selection: not_checked=1, loaderror=0
+[2025-11-11 19:40:58.857977] Creating difficulty window...
+[2025-11-11 19:40:58.946133] Difficulty selection window created and configured
+[2025-11-11 19:41:04.114803] Updating difficulty to: easy
+[2025-11-11 19:41:04.129962] Set difficulty: easy (easy=1, medium=0, hard=0, hardcore=0 random_mode=0, impossible_mode=0)
+[2025-11-11 19:41:04.530699] Starting game with difficulty: easy=1, medium=0, hard=0, hardcore=0 random_mode=0, impossible_mode=0
+[2025-11-11 19:41:04.564894] Creating game window
+[2025-11-11 19:41:04.610192] Initializing game
+[2025-11-11 19:41:04.620680] Set random number 50 between 1 and 50
+[2025-11-11 19:41:06.674407] Text output initialized
+[2025-11-11 19:41:06.679438] Game window created and initialized
+[2025-11-11 19:41:35.371465] Test mode requested
+[2025-11-11 19:41:37.192382] Wrong test mode password
+[2025-11-11 19:41:39.410757] Test mode requested
+[2025-11-11 19:41:41.293894] Wrong test mode password
+[2025-11-11 19:41:47.914608] Test mode requested
+[2025-11-11 19:41:49.576653] Wrong test mode password
+[2025-11-11 19:41:50.129943] Too many wrong password attempts
+[2025-11-11 19:44:20.108118] Application shutting down
+[2025-11-11 19:44:20.120098] Error cleaning up ask window: can't invoke "winfo" command: application has been destroyed
+[2025-11-11 19:44:20.163201] Error cleaning up root window: can't invoke "winfo" command: application has been destroyed
+[2025-11-11 19:44:21.327543] === Starting application ===
+[2025-11-11 19:44:21.335184] Starting main application
+[2025-11-11 19:44:21.356228] Creating main window
+[2025-11-11 19:44:21.526220] Creating main menu
+[2025-11-11 19:44:22.001138] Main menu created
+[2025-11-11 19:44:22.011006] Scheduling difficulty selection
+[2025-11-11 19:44:22.040239] Starting main loop
+[2025-11-11 19:44:22.150588] 
+=== Difficulty Selection Debug ===
+[2025-11-11 19:44:22.182167] Starting difficulty_selection: not_checked=1, loaderror=0
+[2025-11-11 19:44:22.221598] Creating difficulty window...
+[2025-11-11 19:44:22.259767] Difficulty selection window created and configured
+[2025-11-11 19:44:23.664392] Updating difficulty to: impossible
+[2025-11-11 19:44:23.670160] Set difficulty: impossible (easy=0, medium=0, hard=0, hardcore=0 random_mode=0, impossible_mode=0)
+[2025-11-11 19:44:24.030115] Starting game with difficulty: easy=0, medium=0, hard=0, hardcore=0 random_mode=0, impossible_mode=0
+[2025-11-11 19:44:24.037079] No difficulty selected, showing selection window
+[2025-11-11 19:44:25.371060] 
+=== Difficulty Selection Debug ===
+[2025-11-11 19:44:25.375531] Starting difficulty_selection: not_checked=0, loaderror=0
+[2025-11-11 19:44:27.041367] Test mode requested
+[2025-11-11 19:44:28.394247] Wrong test mode password
+[2025-11-11 19:44:31.528827] Test mode requested
+[2025-11-11 19:44:32.108674] Wrong test mode password
+[2025-11-11 19:44:33.841508] Test mode requested
+[2025-11-11 19:44:33.921090] Wrong test mode password
+[2025-11-11 19:44:33.958006] Too many wrong password attempts
+[2025-11-11 19:45:58.896208] Application shutting down
+[2025-11-11 19:45:58.906865] Error cleaning up ask window: can't invoke "winfo" command: application has been destroyed
+[2025-11-11 19:45:58.951012] Error cleaning up root window: can't invoke "winfo" command: application has been destroyed
+[2025-11-11 19:46:00.881612] === Starting application ===
+[2025-11-11 19:46:00.888190] Starting main application
+[2025-11-11 19:46:00.908743] Creating main window
+[2025-11-11 19:46:01.104863] Creating main menu
+[2025-11-11 19:46:01.594134] Main menu created
+[2025-11-11 19:46:01.602932] Scheduling difficulty selection
+[2025-11-11 19:46:01.625880] Starting main loop
+[2025-11-11 19:46:01.733558] 
+=== Difficulty Selection Debug ===
+[2025-11-11 19:46:01.741558] Starting difficulty_selection: not_checked=1, loaderror=0
+[2025-11-11 19:46:01.762247] Creating difficulty window...
+[2025-11-11 19:46:01.790876] Difficulty selection window created and configured
+[2025-11-11 19:46:02.976983] Updating difficulty to: impossible
+[2025-11-11 19:46:02.985257] Set difficulty: impossible (easy=0, medium=0, hard=0, hardcore=0 random_mode=0, impossible_mode=0)
+[2025-11-11 19:46:03.319197] Starting game with difficulty: easy=0, medium=0, hard=0, hardcore=0 random_mode=0, impossible_mode=0
+[2025-11-11 19:46:03.325833] No difficulty selected, showing selection window
+[2025-11-11 19:46:04.860486] 
+=== Difficulty Selection Debug ===
+[2025-11-11 19:46:04.865654] Starting difficulty_selection: not_checked=0, loaderror=0
+[2025-11-11 19:46:05.833207] Test mode requested
+[2025-11-11 19:46:07.519675] Wrong test mode password
+[2025-11-11 19:46:10.625216] Test mode requested
+[2025-11-11 19:46:10.704239] Wrong test mode password
+[2025-11-11 19:46:11.769210] Test mode requested
+[2025-11-11 19:46:12.494305] Wrong test mode password
+[2025-11-11 19:46:12.961542] Too many wrong password attempts
+[2025-11-11 19:48:15.225344] Application shutting down
+[2025-11-11 19:48:15.231031] Error cleaning up ask window: can't invoke "winfo" command: application has been destroyed
+[2025-11-11 19:48:15.258142] Error cleaning up root window: can't invoke "winfo" command: application has been destroyed
+[2025-11-11 19:48:21.836744] === Starting application ===
+[2025-11-11 19:48:21.842390] Starting main application
+[2025-11-11 19:48:21.863309] Creating main window
+[2025-11-11 19:48:21.991995] Creating main menu
+[2025-11-11 19:48:22.373486] Main menu created
+[2025-11-11 19:48:22.380320] Scheduling difficulty selection
+[2025-11-11 19:48:22.398187] Starting main loop
+[2025-11-11 19:48:22.505284] 
+=== Difficulty Selection Debug ===
+[2025-11-11 19:48:22.510773] Starting difficulty_selection: not_checked=1, loaderror=0
+[2025-11-11 19:48:22.528928] Creating difficulty window...
+[2025-11-11 19:48:22.587420] Difficulty selection window created and configured
+[2025-11-11 19:48:25.080989] Updating difficulty to: medium
+[2025-11-11 19:48:25.086881] Set difficulty: medium (easy=0, medium=1, hard=0, hardcore=0 random_mode=0, impossible_mode=0)
+[2025-11-11 19:48:25.395566] Starting game with difficulty: easy=0, medium=1, hard=0, hardcore=0 random_mode=0, impossible_mode=0
+[2025-11-11 19:48:25.428058] Creating game window
+[2025-11-11 19:48:25.508642] Initializing game
+[2025-11-11 19:48:25.540298] Set random number 77 between 1 and 100
+[2025-11-11 19:48:26.851272] Text output initialized
+[2025-11-11 19:48:26.855454] Game window created and initialized
+[2025-11-11 19:48:28.888432] Test mode requested
+[2025-11-11 19:48:29.957767] Wrong test mode password
+[2025-11-11 19:48:31.376404] Test mode requested
+[2025-11-11 19:48:31.456143] Wrong test mode password
+[2025-11-11 19:48:33.320002] Test mode requested
+[2025-11-11 19:48:33.789035] Wrong test mode password
+[2025-11-11 19:48:34.251668] Too many wrong password attempts
+[2025-11-11 19:49:23.977088] Test mode requested
+[2025-11-11 19:49:24.997959] Wrong test mode password
+[2025-11-11 19:49:25.502405] Too many wrong password attempts
+[2025-11-11 19:50:31.455574] Application shutting down
+[2025-11-11 19:50:31.460898] Error cleaning up ask window: can't invoke "winfo" command: application has been destroyed
+[2025-11-11 19:50:31.557593] Error cleaning up root window: can't invoke "winfo" command: application has been destroyed
+[2025-11-11 19:50:33.640856] === Starting application ===
+[2025-11-11 19:50:33.646517] Starting main application
+[2025-11-11 19:50:33.664127] Creating main window
+[2025-11-11 19:50:33.794020] Creating main menu
+[2025-11-11 19:50:34.186847] Main menu created
+[2025-11-11 19:50:34.192256] Scheduling difficulty selection
+[2025-11-11 19:50:34.207397] Starting main loop
+[2025-11-11 19:50:34.312993] 
+=== Difficulty Selection Debug ===
+[2025-11-11 19:50:34.319431] Starting difficulty_selection: not_checked=1, loaderror=0
+[2025-11-11 19:50:34.338437] Creating difficulty window...
+[2025-11-11 19:50:34.369269] Difficulty selection window created and configured
+[2025-11-11 19:50:36.215409] Updating difficulty to: easy
+[2025-11-11 19:50:36.220823] Set difficulty: easy (easy=1, medium=0, hard=0, hardcore=0 random_mode=0, impossible_mode=0)
+[2025-11-11 19:50:36.511109] Starting game with difficulty: easy=1, medium=0, hard=0, hardcore=0 random_mode=0, impossible_mode=0
+[2025-11-11 19:50:36.552695] Creating game window
+[2025-11-11 19:50:36.587851] Initializing game
+[2025-11-11 19:50:36.603558] Set random number 31 between 1 and 50
+[2025-11-11 19:50:38.019067] Text output initialized
+[2025-11-11 19:50:38.023049] Game window created and initialized
+[2025-11-11 19:50:40.466797] Test mode requested
+[2025-11-11 19:50:41.259996] Wrong test mode password
+[2025-11-11 19:50:42.439699] Test mode requested
+[2025-11-11 19:50:42.508098] Wrong test mode password
+[2025-11-11 19:50:43.166618] Test mode requested
+[2025-11-11 19:50:43.249820] Wrong test mode password
+[2025-11-11 19:50:43.288823] Too many wrong password attempts
+[2025-11-11 19:52:32.062873] Application shutting down
+[2025-11-11 19:52:37.570669] === Starting application ===
+[2025-11-11 19:52:37.575935] Starting main application
+[2025-11-11 19:52:37.593067] Creating main window
+[2025-11-11 19:52:37.721443] Creating main menu
+[2025-11-11 19:52:38.134898] Main menu created
+[2025-11-11 19:52:38.139855] Scheduling difficulty selection
+[2025-11-11 19:52:38.158575] Starting main loop
+[2025-11-11 19:52:38.262541] 
+=== Difficulty Selection Debug ===
+[2025-11-11 19:52:38.270271] Starting difficulty_selection: not_checked=1, loaderror=0
+[2025-11-11 19:52:38.288603] Creating difficulty window...
+[2025-11-11 19:52:38.319281] Difficulty selection window created and configured
+[2025-11-11 19:52:39.846808] Updating difficulty to: easy
+[2025-11-11 19:52:39.853072] Set difficulty: easy (easy=1, medium=0, hard=0, hardcore=0 random_mode=0, impossible_mode=0)
+[2025-11-11 19:52:40.190853] Starting game with difficulty: easy=1, medium=0, hard=0, hardcore=0 random_mode=0, impossible_mode=0
+[2025-11-11 19:52:40.219991] Creating game window
+[2025-11-11 19:52:40.274314] Initializing game
+[2025-11-11 19:52:40.291252] Set random number 25 between 1 and 50
+[2025-11-11 19:52:43.472429] Text output initialized
+[2025-11-11 19:52:43.476444] Game window created and initialized
+[2025-11-11 19:52:46.143682] Test mode requested
+[2025-11-11 19:52:47.118104] Wrong test mode password
+[2025-11-11 19:52:49.526401] Test mode requested
+[2025-11-11 19:52:49.624788] Wrong test mode password
+[2025-11-11 19:52:50.326949] Test mode requested
+[2025-11-11 19:52:50.404602] Wrong test mode password
+[2025-11-11 19:52:50.453195] Too many wrong password attempts
+[2025-11-11 19:56:46.669318] Application shutting down
+[2025-11-11 19:56:46.674689] Error cleaning up ask window: can't invoke "winfo" command: application has been destroyed
+[2025-11-11 19:56:46.701393] Error cleaning up root window: can't invoke "winfo" command: application has been destroyed
+[2025-11-11 19:57:01.349501] === Starting application ===
+[2025-11-11 19:57:01.354348] Starting main application
+[2025-11-11 19:57:01.375119] Creating main window
+[2025-11-11 19:57:01.574318] Creating main menu
+[2025-11-11 19:57:02.013324] Main menu created
+[2025-11-11 19:57:02.021122] Scheduling difficulty selection
+[2025-11-11 19:57:02.074664] Starting main loop
+[2025-11-11 19:57:02.187012] 
+=== Difficulty Selection Debug ===
+[2025-11-11 19:57:02.193792] Starting difficulty_selection: not_checked=1, loaderror=0
+[2025-11-11 19:57:02.222947] Creating difficulty window...
+[2025-11-11 19:57:02.353817] Difficulty selection window created and configured
+[2025-11-11 19:57:04.950730] Updating difficulty to: easy
+[2025-11-11 19:57:04.956513] Set difficulty: easy (easy=1, medium=0, hard=0, hardcore=0 random_mode=0, impossible_mode=0)
+[2025-11-11 19:57:05.277222] Starting game with difficulty: easy=1, medium=0, hard=0, hardcore=0 random_mode=0, impossible_mode=0
+[2025-11-11 19:57:05.312298] Creating game window
+[2025-11-11 19:57:05.364468] Initializing game
+[2025-11-11 19:57:05.438849] Set random number 4 between 1 and 50
+[2025-11-11 19:57:06.729288] Text output initialized
+[2025-11-11 19:57:06.734052] Game window created and initialized
+[2025-11-11 19:57:08.894273] Test mode requested
+[2025-11-11 19:57:10.220106] Wrong test mode password
+[2025-11-11 19:57:12.230624] Test mode requested
+[2025-11-11 19:57:12.327915] Wrong test mode password
+[2025-11-11 19:57:20.237655] Test mode requested
+[2025-11-11 19:57:21.659455] Wrong test mode password
+[2025-11-11 19:57:22.158117] Too many wrong password attempts
+[2025-11-12 18:54:11.183762] === Starting application ===
+[2025-11-12 18:54:11.204126] Starting main application
+[2025-11-12 18:54:11.233066] Creating main window
+[2025-11-12 18:54:12.193450] Creating main menu
+[2025-11-12 18:54:12.771139] Main menu created
+[2025-11-12 18:54:12.780042] Scheduling difficulty selection
+[2025-11-12 18:54:12.800403] Starting main loop
+[2025-11-12 18:54:12.910169] 
+=== Difficulty Selection Debug ===
+[2025-11-12 18:54:12.916083] Starting difficulty_selection: not_checked=1, loaderror=0
+[2025-11-12 18:54:12.934300] Creating difficulty window...
+[2025-11-12 18:54:12.967325] Difficulty selection window created and configured
+[2025-11-12 18:54:18.721252] Updating difficulty to: easy
+[2025-11-12 18:54:18.731825] Set difficulty: easy (easy=1, medium=0, hard=0, hardcore=0 random_mode=0, impossible_mode=0)
+[2025-11-12 18:54:19.070218] Starting game with difficulty: easy=1, medium=0, hard=0, hardcore=0 random_mode=0, impossible_mode=0
+[2025-11-12 18:54:19.123014] Creating game window
+[2025-11-12 18:54:19.202168] Initializing game
+[2025-11-12 18:54:19.248327] Set random number 41 between 1 and 50
+[2025-11-12 18:54:20.625893] Text output initialized
+[2025-11-12 18:54:20.648236] Game window created and initialized
+[2025-11-12 18:54:23.619621] Application shutting down
+[2025-11-12 18:54:23.631375] Error cleaning up ask window: can't invoke "winfo" command: application has been destroyed
+[2025-11-12 18:54:23.751128] Error cleaning up root window: can't invoke "winfo" command: application has been destroyed
+[2025-11-12 19:37:02.075006] === Starting application ===
+[2025-11-12 19:37:02.095318] Starting main application
+[2025-11-12 19:37:02.113203] Creating main window
+[2025-11-12 19:37:02.847070] Creating main menu
+[2025-11-12 19:37:03.538210] Main menu created
+[2025-11-12 19:37:03.544500] Scheduling difficulty selection
+[2025-11-12 19:37:03.562236] Starting main loop
+[2025-11-12 19:37:03.675880] 
+=== Difficulty Selection Debug ===
+[2025-11-12 19:37:03.683923] Starting difficulty_selection: not_checked=1, loaderror=0
+[2025-11-12 19:37:03.714447] Creating difficulty window...
+[2025-11-12 19:37:03.745431] Difficulty selection window created and configured
+[2025-11-12 19:37:06.064151] Updating difficulty to: easy
+[2025-11-12 19:37:06.070189] Set difficulty: easy (easy=1, medium=0, hard=0, hardcore=0 random_mode=0, impossible_mode=0)
+[2025-11-12 19:37:06.379316] Starting game with difficulty: easy=1, medium=0, hard=0, hardcore=0 random_mode=0, impossible_mode=0
+[2025-11-12 19:37:06.412783] Creating game window
+[2025-11-12 19:37:06.464194] Initializing game
+[2025-11-12 19:37:06.490289] Set random number 47 between 1 and 50
+[2025-11-12 19:37:08.107487] Text output initialized
+[2025-11-12 19:37:08.111993] Game window created and initialized
+[2025-11-12 19:37:10.136449] Test mode requested
+[2025-11-12 19:37:11.949099] Wrong test mode password
+[2025-11-12 19:37:13.296223] Test mode requested
+[2025-11-12 19:37:13.591854] Wrong test mode password
+[2025-11-12 19:37:14.864306] Test mode requested
+[2025-11-12 19:37:15.242817] Wrong test mode password
+[2025-11-12 19:37:15.654113] Too many wrong password attempts
+[2025-11-12 19:37:20.035355] Application shutting down
+[2025-11-12 19:43:08.215821] === Starting application ===
+[2025-11-12 19:43:08.221788] Starting main application
+[2025-11-12 19:43:08.240153] Creating main window
+[2025-11-12 19:43:08.373662] Creating main menu
+[2025-11-12 19:43:08.774519] Main menu created
+[2025-11-12 19:43:08.782704] Scheduling difficulty selection
+[2025-11-12 19:43:08.797707] Starting main loop
+[2025-11-12 19:43:08.911726] 
+=== Difficulty Selection Debug ===
+[2025-11-12 19:43:08.919594] Starting difficulty_selection: not_checked=1, loaderror=0
+[2025-11-12 19:43:08.936743] Creating difficulty window...
+[2025-11-12 19:43:08.961967] Difficulty selection window created and configured
+[2025-11-12 19:43:11.519263] Updating difficulty to: easy
+[2025-11-12 19:43:11.524272] Set difficulty: easy (easy=1, medium=0, hard=0, hardcore=0 random_mode=0, impossible_mode=0)
+[2025-11-12 19:43:11.787857] Starting game with difficulty: easy=1, medium=0, hard=0, hardcore=0 random_mode=0, impossible_mode=0
+[2025-11-12 19:43:11.813848] Creating game window
+[2025-11-12 19:43:11.843365] Initializing game
+[2025-11-12 19:43:11.851837] Set random number 12 between 1 and 50
+[2025-11-12 19:43:12.942999] Text output initialized
+[2025-11-12 19:43:12.948036] Game window created and initialized
+[2025-11-12 19:43:14.887065] Test mode requested
+[2025-11-12 19:43:15.765450] Wrong test mode password
+[2025-11-12 19:43:16.951008] Test mode requested
+[2025-11-12 19:43:17.109753] Wrong test mode password
+[2025-11-12 19:43:17.830908] Test mode requested
+[2025-11-12 19:43:18.027512] Wrong test mode password
+[2025-11-12 19:43:18.256251] Too many wrong password attempts
+[2025-11-12 19:44:09.310935] Application shutting down
+[2025-11-12 19:44:09.325728] Error cleaning up ask window: can't invoke "winfo" command: application has been destroyed
+[2025-11-12 19:44:09.373439] Error cleaning up root window: can't invoke "winfo" command: application has been destroyed
+[2025-11-12 19:44:11.413779] === Starting application ===
+[2025-11-12 19:44:11.413779] Starting main application
+[2025-11-12 19:44:11.436697] Creating main window
+[2025-11-12 19:44:11.549634] Creating main menu
+[2025-11-12 19:44:11.913570] Main menu created
+[2025-11-12 19:44:11.930140] Scheduling difficulty selection
+[2025-11-12 19:44:11.945603] Starting main loop
+[2025-11-12 19:44:12.046471] 
+=== Difficulty Selection Debug ===
+[2025-11-12 19:44:12.047476] Starting difficulty_selection: not_checked=1, loaderror=0
+[2025-11-12 19:44:12.070769] Creating difficulty window...
+[2025-11-12 19:44:12.100117] Difficulty selection window created and configured
+[2025-11-12 19:44:13.415595] Updating difficulty to: easy
+[2025-11-12 19:44:13.422233] Set difficulty: easy (easy=1, medium=0, hard=0, hardcore=0 random_mode=0, impossible_mode=0)
+[2025-11-12 19:44:13.729125] Starting game with difficulty: easy=1, medium=0, hard=0, hardcore=0 random_mode=0, impossible_mode=0
+[2025-11-12 19:44:13.760180] Creating game window
+[2025-11-12 19:44:13.795716] Initializing game
+[2025-11-12 19:44:13.823344] Set random number 6 between 1 and 50
+[2025-11-12 19:44:15.400810] Text output initialized
+[2025-11-12 19:44:15.405809] Game window created and initialized
+[2025-11-12 19:44:17.199429] Test mode requested
+[2025-11-12 19:44:17.791829] Wrong test mode password
+[2025-11-12 19:44:18.991277] Test mode requested
+[2025-11-12 19:44:19.121524] Wrong test mode password
+[2025-11-12 19:44:20.142992] Test mode requested
+[2025-11-12 19:44:20.485040] Wrong test mode password
+[2025-11-12 19:44:20.668130] Too many wrong password attempts
+[2025-11-12 19:47:22.164252] Application shutting down
+[2025-11-12 19:47:22.172479] Error cleaning up ask window: can't invoke "winfo" command: application has been destroyed
+[2025-11-12 19:47:22.242255] Error cleaning up root window: can't invoke "winfo" command: application has been destroyed
+[2025-11-12 19:50:30.196104] === Starting application ===
+[2025-11-12 19:50:30.203699] Starting main application
+[2025-11-12 19:50:30.229479] Creating main window
+[2025-11-12 19:50:30.362282] Creating main menu
+[2025-11-12 19:50:30.764271] Main menu created
+[2025-11-12 19:50:30.770396] Scheduling difficulty selection
+[2025-11-12 19:50:30.795148] Starting main loop
+[2025-11-12 19:50:30.895774] 
+=== Difficulty Selection Debug ===
+[2025-11-12 19:50:30.900773] Starting difficulty_selection: not_checked=1, loaderror=0
+[2025-11-12 19:50:30.917588] Creating difficulty window...
+[2025-11-12 19:50:30.943215] Difficulty selection window created and configured
+[2025-11-12 19:50:32.294264] Updating difficulty to: easy
+[2025-11-12 19:50:32.300530] Set difficulty: easy (easy=1, medium=0, hard=0, hardcore=0 random_mode=0, impossible_mode=0)
+[2025-11-12 19:50:32.612252] Starting game with difficulty: easy=1, medium=0, hard=0, hardcore=0 random_mode=0, impossible_mode=0
+[2025-11-12 19:50:32.644878] Creating game window
+[2025-11-12 19:50:32.704162] Initializing game
+[2025-11-12 19:50:32.716799] Set random number 49 between 1 and 50
+[2025-11-12 19:50:34.368940] Text output initialized
+[2025-11-12 19:50:34.372946] Game window created and initialized
+[2025-11-12 19:50:36.469935] Test mode requested
+[2025-11-12 19:50:37.361396] Wrong test mode password
+[2025-11-12 19:50:38.965459] Test mode requested
+[2025-11-12 19:50:39.132845] Wrong test mode password
+[2025-11-12 19:50:39.861433] Test mode requested
+[2025-11-12 19:50:39.941570] Wrong test mode password
+[2025-11-12 19:50:39.988794] Too many wrong password attempts
+[2025-11-12 19:53:03.955888] Application shutting down
+[2025-11-12 19:53:03.973239] Error cleaning up ask window: can't invoke "winfo" command: application has been destroyed
+[2025-11-12 19:53:04.124049] Error cleaning up root window: can't invoke "winfo" command: application has been destroyed

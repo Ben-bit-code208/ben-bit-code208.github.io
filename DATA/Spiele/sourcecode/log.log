@@ -1,0 +1,4041 @@
+[{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnusedImport",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnusedImport.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Import \"time\" is not accessed",
+	"source": "Pylance",
+	"startLineNumber": 5,
+	"startColumn": 8,
+	"endLineNumber": 5,
+	"endColumn": 12,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnusedImport",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnusedImport.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Import \"subprocess\" is not accessed",
+	"source": "Pylance",
+	"startLineNumber": 9,
+	"startColumn": 8,
+	"endLineNumber": 9,
+	"endColumn": 18,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnusedImport",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnusedImport.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Import \"ctypes\" is not accessed",
+	"source": "Pylance",
+	"startLineNumber": 10,
+	"startColumn": 8,
+	"endLineNumber": 10,
+	"endColumn": 14,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnusedImport",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnusedImport.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Import \"LoadError\" is not accessed",
+	"source": "Pylance",
+	"startLineNumber": 12,
+	"startColumn": 28,
+	"endLineNumber": 12,
+	"endColumn": 37,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnusedImport",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnusedImport.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Import \"start\" is not accessed",
+	"source": "Pylance",
+	"startLineNumber": 15,
+	"startColumn": 25,
+	"endLineNumber": 15,
+	"endColumn": 30,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnusedImport",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnusedImport.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Import \"loader\" is not accessed",
+	"source": "Pylance",
+	"startLineNumber": 16,
+	"startColumn": 22,
+	"endLineNumber": 16,
+	"endColumn": 28,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnusedImport",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnusedImport.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Import \"get\" is not accessed",
+	"source": "Pylance",
+	"startLineNumber": 17,
+	"startColumn": 24,
+	"endLineNumber": 17,
+	"endColumn": 27,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnusedImport",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnusedImport.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Import \"download_helper\" is not accessed",
+	"source": "Pylance",
+	"startLineNumber": 18,
+	"startColumn": 8,
+	"endLineNumber": 18,
+	"endColumn": 23,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportMissingTypeStubs",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportMissingTypeStubs.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Stub file not found for \"vlc\"",
+	"source": "Pylance",
+	"startLineNumber": 19,
+	"startColumn": 8,
+	"endLineNumber": 19,
+	"endColumn": 11,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportAssignmentType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportAssignmentType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type \"None\" is not assignable to declared type \"(url: Unknown) -> (str | Any | None)\"\n  Type \"None\" is not assignable to type \"(url: Unknown) -> (str | Any | None)\"",
+	"source": "Pylance",
+	"startLineNumber": 24,
+	"startColumn": 21,
+	"endLineNumber": 24,
+	"endColumn": 25,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnusedFunction",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnusedFunction.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Function \"_monitor_playback\" is not accessed",
+	"source": "Pylance",
+	"startLineNumber": 25,
+	"startColumn": 5,
+	"endLineNumber": 25,
+	"endColumn": 22,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownParameterType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownParameterType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of parameter \"self\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 25,
+	"startColumn": 23,
+	"endLineNumber": 25,
+	"endColumn": 27,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportMissingParameterType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportMissingParameterType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type annotation is missing for parameter \"self\"",
+	"source": "Pylance",
+	"startLineNumber": 25,
+	"startColumn": 23,
+	"endLineNumber": 25,
+	"endColumn": 27,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownVariableType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownVariableType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"vlc\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 28,
+	"startColumn": 5,
+	"endLineNumber": 28,
+	"endColumn": 8,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUndefinedVariable",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUndefinedVariable.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "\"ensure_vlc\" is not defined",
+	"source": "Pylance",
+	"startLineNumber": 28,
+	"startColumn": 11,
+	"endLineNumber": 28,
+	"endColumn": 21,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownVariableType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownVariableType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"state\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 34,
+	"startColumn": 9,
+	"endLineNumber": 34,
+	"endColumn": 14,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"player\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 34,
+	"startColumn": 17,
+	"endLineNumber": 34,
+	"endColumn": 28,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"get_state\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 34,
+	"startColumn": 17,
+	"endLineNumber": 34,
+	"endColumn": 38,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"State\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 35,
+	"startColumn": 22,
+	"endLineNumber": 35,
+	"endColumn": 31,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"Playing\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 35,
+	"startColumn": 22,
+	"endLineNumber": 35,
+	"endColumn": 39,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"State\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 35,
+	"startColumn": 41,
+	"endLineNumber": 35,
+	"endColumn": 50,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"Paused\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 35,
+	"startColumn": 41,
+	"endLineNumber": 35,
+	"endColumn": 57,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"State\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 35,
+	"startColumn": 59,
+	"endLineNumber": 35,
+	"endColumn": 68,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"Buffering\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 35,
+	"startColumn": 59,
+	"endLineNumber": 35,
+	"endColumn": 78,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownVariableType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownVariableType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"state\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 41,
+	"startColumn": 9,
+	"endLineNumber": 41,
+	"endColumn": 14,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"player\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 41,
+	"startColumn": 17,
+	"endLineNumber": 41,
+	"endColumn": 28,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"get_state\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 41,
+	"startColumn": 17,
+	"endLineNumber": 41,
+	"endColumn": 38,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"State\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 42,
+	"startColumn": 22,
+	"endLineNumber": 42,
+	"endColumn": 31,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"Ended\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 42,
+	"startColumn": 22,
+	"endLineNumber": 42,
+	"endColumn": 37,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"State\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 42,
+	"startColumn": 39,
+	"endLineNumber": 42,
+	"endColumn": 48,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"Error\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 42,
+	"startColumn": 39,
+	"endLineNumber": 42,
+	"endColumn": 54,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"State\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 42,
+	"startColumn": 56,
+	"endLineNumber": 42,
+	"endColumn": 65,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"Stopped\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 42,
+	"startColumn": 56,
+	"endLineNumber": 42,
+	"endColumn": 73,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"root\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 44,
+	"startColumn": 17,
+	"endLineNumber": 44,
+	"endColumn": 26,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"after\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 44,
+	"startColumn": 17,
+	"endLineNumber": 44,
+	"endColumn": 32,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"close\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 44,
+	"startColumn": 36,
+	"endLineNumber": 44,
+	"endColumn": 46,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownParameterType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownParameterType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of parameter \"url\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 53,
+	"startColumn": 23,
+	"endLineNumber": 53,
+	"endColumn": 26,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportMissingParameterType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportMissingParameterType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type annotation is missing for parameter \"url\"",
+	"source": "Pylance",
+	"startLineNumber": 53,
+	"startColumn": 23,
+	"endLineNumber": 53,
+	"endColumn": 26,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownVariableType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownVariableType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"opts\" is partially unknown\n  Type of \"opts\" is \"dict[str, Unknown]\"",
+	"source": "Pylance",
+	"startLineNumber": 54,
+	"startColumn": 5,
+	"endLineNumber": 54,
+	"endColumn": 9,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportArgumentType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportArgumentType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Argument of type \"dict[str, Unknown]\" cannot be assigned to parameter \"params\" of type \"_Params | None\" in function \"__init__\"\n  Type \"dict[str, Unknown]\" is not assignable to type \"_Params | None\"\n    \"dict[str, Unknown]\" is not assignable to \"_Params\"\n    \"dict[str, Unknown]\" is not assignable to \"None\"",
+	"source": "Pylance",
+	"startLineNumber": 60,
+	"startColumn": 20,
+	"endLineNumber": 60,
+	"endColumn": 24,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownArgumentType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownArgumentType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Argument type is unknown\n  Argument corresponds to parameter \"url\" in function \"extract_info\"",
+	"source": "Pylance",
+	"startLineNumber": 61,
+	"startColumn": 33,
+	"endLineNumber": 61,
+	"endColumn": 36,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownParameterType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownParameterType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of parameter \"stream_url\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 76,
+	"startColumn": 24,
+	"endLineNumber": 76,
+	"endColumn": 34,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportMissingParameterType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportMissingParameterType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type annotation is missing for parameter \"stream_url\"",
+	"source": "Pylance",
+	"startLineNumber": 76,
+	"startColumn": 24,
+	"endLineNumber": 76,
+	"endColumn": 34,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"instance\" is partially unknown\n  Type of \"instance\" is \"Unknown | Any | None\"",
+	"source": "Pylance",
+	"startLineNumber": 81,
+	"startColumn": 13,
+	"endLineNumber": 81,
+	"endColumn": 26,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"instance\" is partially unknown\n  Type of \"instance\" is \"Unknown | Any | None\"",
+	"source": "Pylance",
+	"startLineNumber": 87,
+	"startColumn": 17,
+	"endLineNumber": 87,
+	"endColumn": 30,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"player\" is partially unknown\n  Type of \"player\" is \"Unknown | Any\"",
+	"source": "Pylance",
+	"startLineNumber": 88,
+	"startColumn": 9,
+	"endLineNumber": 88,
+	"endColumn": 20,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"instance\" is partially unknown\n  Type of \"instance\" is \"Unknown | Any | None\"",
+	"source": "Pylance",
+	"startLineNumber": 88,
+	"startColumn": 23,
+	"endLineNumber": 88,
+	"endColumn": 36,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"media_player_new\" is partially unknown\n  Type of \"media_player_new\" is \"Unknown | Any\"",
+	"source": "Pylance",
+	"startLineNumber": 88,
+	"startColumn": 23,
+	"endLineNumber": 88,
+	"endColumn": 53,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportOptionalMemberAccess",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportOptionalMemberAccess.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "\"media_player_new\" is not a known attribute of \"None\"",
+	"source": "Pylance",
+	"startLineNumber": 88,
+	"startColumn": 37,
+	"endLineNumber": 88,
+	"endColumn": 53,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"attributes\" is partially unknown\n  Type of \"attributes\" is \"Overload[() -> tuple[Any, ...], (option: Literal['-alpha'], /) -> float, (option: Literal['-fullscreen'], /) -> bool, (option: Literal['-topmost'], /) -> bool, (option: Literal['-transparentcolor'], /) -> str, (option: Literal['-disabled'], /) -> bool, (option: Literal['-toolwindow'], /) -> bool, (option: str, /) -> Unknown, (option: Literal['-alpha'], value: float, /) -> Literal[''], (option: Literal['-fullscreen'], value: bool, /) -> Literal[''], (option: Literal['-topmost'], value: bool, /) -> Literal[''], (option: Literal['-transparentcolor'], value: str, /) -> Literal[''], (option: Literal['-disabled'], value: bool, /) -> Literal[''], (option: Literal['-toolwindow'], value: bool, /) -> Literal[''], (option: str, value: Unknown, /, *__other_option_value_pairs: Any) -> Literal['']]\"",
+	"source": "Pylance",
+	"startLineNumber": 92,
+	"startColumn": 9,
+	"endLineNumber": 92,
+	"endColumn": 29,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"_monitor_playback\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 102,
+	"startColumn": 55,
+	"endLineNumber": 102,
+	"endColumn": 77,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownArgumentType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownArgumentType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Argument type is unknown\n  Argument corresponds to parameter \"target\" in function \"__init__\"",
+	"source": "Pylance",
+	"startLineNumber": 102,
+	"startColumn": 55,
+	"endLineNumber": 102,
+	"endColumn": 77,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportAttributeAccessIssue",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportAttributeAccessIssue.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Cannot access attribute \"_monitor_playback\" for class \"FullscreenPlayer*\"\n  Attribute \"_monitor_playback\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 102,
+	"startColumn": 60,
+	"endLineNumber": 102,
+	"endColumn": 77,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"player\" is partially unknown\n  Type of \"player\" is \"Unknown | Any\"",
+	"source": "Pylance",
+	"startLineNumber": 111,
+	"startColumn": 17,
+	"endLineNumber": 111,
+	"endColumn": 28,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"set_hwnd\" is partially unknown\n  Type of \"set_hwnd\" is \"Unknown | Any\"",
+	"source": "Pylance",
+	"startLineNumber": 111,
+	"startColumn": 17,
+	"endLineNumber": 111,
+	"endColumn": 37,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"player\" is partially unknown\n  Type of \"player\" is \"Unknown | Any\"",
+	"source": "Pylance",
+	"startLineNumber": 115,
+	"startColumn": 13,
+	"endLineNumber": 115,
+	"endColumn": 24,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"set_xwindow\" is partially unknown\n  Type of \"set_xwindow\" is \"Unknown | Any\"",
+	"source": "Pylance",
+	"startLineNumber": 115,
+	"startColumn": 13,
+	"endLineNumber": 115,
+	"endColumn": 36,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnusedImport",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnusedImport.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Import \"message\" is not accessed",
+	"source": "Pylance",
+	"startLineNumber": 127,
+	"startColumn": 20,
+	"endLineNumber": 127,
+	"endColumn": 27,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnusedImport",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnusedImport.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Import \"threading\" is not accessed",
+	"source": "Pylance",
+	"startLineNumber": 129,
+	"startColumn": 9,
+	"endLineNumber": 129,
+	"endColumn": 18,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnusedImport",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnusedImport.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Import \"time\" is not accessed",
+	"source": "Pylance",
+	"startLineNumber": 130,
+	"startColumn": 9,
+	"endLineNumber": 130,
+	"endColumn": 13,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnusedImport",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnusedImport.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Import \"Y\" is not accessed",
+	"source": "Pylance",
+	"startLineNumber": 131,
+	"startColumn": 22,
+	"endLineNumber": 131,
+	"endColumn": 23,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnusedImport",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnusedImport.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Import \"tk\" is not accessed",
+	"source": "Pylance",
+	"startLineNumber": 138,
+	"startColumn": 23,
+	"endLineNumber": 138,
+	"endColumn": 25,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnusedImport",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnusedImport.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Import \"messagebox\" is not accessed",
+	"source": "Pylance",
+	"startLineNumber": 139,
+	"startColumn": 25,
+	"endLineNumber": 139,
+	"endColumn": 35,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnusedVariable",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnusedVariable.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Variable \"tk\" is not accessed",
+	"source": "Pylance",
+	"startLineNumber": 145,
+	"startColumn": 9,
+	"endLineNumber": 145,
+	"endColumn": 11,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnusedVariable",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnusedVariable.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Variable \"messagebox\" is not accessed",
+	"source": "Pylance",
+	"startLineNumber": 146,
+	"startColumn": 9,
+	"endLineNumber": 146,
+	"endColumn": 19,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnusedImport",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnusedImport.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Import \"YoutubeDL\" is not accessed",
+	"source": "Pylance",
+	"startLineNumber": 157,
+	"startColumn": 21,
+	"endLineNumber": 157,
+	"endColumn": 30,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnusedVariable",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnusedVariable.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Variable \"vlc\" is not accessed",
+	"source": "Pylance",
+	"startLineNumber": 160,
+	"startColumn": 5,
+	"endLineNumber": 160,
+	"endColumn": 8,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownParameterType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownParameterType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of parameter \"self\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 170,
+	"startColumn": 10,
+	"endLineNumber": 170,
+	"endColumn": 14,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportMissingParameterType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportMissingParameterType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type annotation is missing for parameter \"self\"",
+	"source": "Pylance",
+	"startLineNumber": 170,
+	"startColumn": 10,
+	"endLineNumber": 170,
+	"endColumn": 14,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownVariableType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownVariableType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"media\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 171,
+	"startColumn": 9,
+	"endLineNumber": 171,
+	"endColumn": 14,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"instance\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 171,
+	"startColumn": 17,
+	"endLineNumber": 171,
+	"endColumn": 30,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"media_new\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 171,
+	"startColumn": 17,
+	"endLineNumber": 171,
+	"endColumn": 40,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"stream_url\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 171,
+	"startColumn": 41,
+	"endLineNumber": 171,
+	"endColumn": 56,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"player\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 172,
+	"startColumn": 9,
+	"endLineNumber": 172,
+	"endColumn": 20,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"set_media\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 172,
+	"startColumn": 9,
+	"endLineNumber": 172,
+	"endColumn": 30,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"player\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 173,
+	"startColumn": 9,
+	"endLineNumber": 173,
+	"endColumn": 20,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"play\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 173,
+	"startColumn": 9,
+	"endLineNumber": 173,
+	"endColumn": 25,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownVariableType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownVariableType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"em\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 176,
+	"startColumn": 13,
+	"endLineNumber": 176,
+	"endColumn": 15,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"player\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 176,
+	"startColumn": 18,
+	"endLineNumber": 176,
+	"endColumn": 29,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"event_manager\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 176,
+	"startColumn": 18,
+	"endLineNumber": 176,
+	"endColumn": 43,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"event_attach\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 178,
+	"startColumn": 13,
+	"endLineNumber": 178,
+	"endColumn": 28,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"MediaPlayerEndReached\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 178,
+	"startColumn": 29,
+	"endLineNumber": 178,
+	"endColumn": 64,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportAttributeAccessIssue",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportAttributeAccessIssue.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Cannot access attribute \"MediaPlayerEndReached\" for class \"type[EventType]\"\n  Attribute \"MediaPlayerEndReached\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 178,
+	"startColumn": 43,
+	"endLineNumber": 178,
+	"endColumn": 64,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownLambdaType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownLambdaType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of parameter \"e\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 178,
+	"startColumn": 73,
+	"endLineNumber": 178,
+	"endColumn": 74,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"root\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 178,
+	"startColumn": 76,
+	"endLineNumber": 178,
+	"endColumn": 85,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"after\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 178,
+	"startColumn": 76,
+	"endLineNumber": 178,
+	"endColumn": 91,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownLambdaType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownLambdaType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Return type of lambda is unknown",
+	"source": "Pylance",
+	"startLineNumber": 178,
+	"startColumn": 76,
+	"endLineNumber": 178,
+	"endColumn": 106,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"close\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 178,
+	"startColumn": 95,
+	"endLineNumber": 178,
+	"endColumn": 105,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"event_attach\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 179,
+	"startColumn": 13,
+	"endLineNumber": 179,
+	"endColumn": 28,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"MediaPlayerEncounteredError\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 179,
+	"startColumn": 29,
+	"endLineNumber": 179,
+	"endColumn": 70,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportAttributeAccessIssue",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportAttributeAccessIssue.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Cannot access attribute \"MediaPlayerEncounteredError\" for class \"type[EventType]\"\n  Attribute \"MediaPlayerEncounteredError\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 179,
+	"startColumn": 43,
+	"endLineNumber": 179,
+	"endColumn": 70,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownLambdaType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownLambdaType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of parameter \"e\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 179,
+	"startColumn": 79,
+	"endLineNumber": 179,
+	"endColumn": 80,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"root\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 179,
+	"startColumn": 82,
+	"endLineNumber": 179,
+	"endColumn": 91,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"after\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 179,
+	"startColumn": 82,
+	"endLineNumber": 179,
+	"endColumn": 97,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownLambdaType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownLambdaType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Return type of lambda is unknown",
+	"source": "Pylance",
+	"startLineNumber": 179,
+	"startColumn": 82,
+	"endLineNumber": 179,
+	"endColumn": 112,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"close\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 179,
+	"startColumn": 101,
+	"endLineNumber": 179,
+	"endColumn": 111,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"event_attach\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 180,
+	"startColumn": 13,
+	"endLineNumber": 180,
+	"endColumn": 28,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"MediaPlayerStopped\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 180,
+	"startColumn": 29,
+	"endLineNumber": 180,
+	"endColumn": 61,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportAttributeAccessIssue",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportAttributeAccessIssue.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Cannot access attribute \"MediaPlayerStopped\" for class \"type[EventType]\"\n  Attribute \"MediaPlayerStopped\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 180,
+	"startColumn": 43,
+	"endLineNumber": 180,
+	"endColumn": 61,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownLambdaType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownLambdaType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of parameter \"e\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 180,
+	"startColumn": 70,
+	"endLineNumber": 180,
+	"endColumn": 71,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"root\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 180,
+	"startColumn": 73,
+	"endLineNumber": 180,
+	"endColumn": 82,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"after\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 180,
+	"startColumn": 73,
+	"endLineNumber": 180,
+	"endColumn": 88,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownLambdaType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownLambdaType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Return type of lambda is unknown",
+	"source": "Pylance",
+	"startLineNumber": 180,
+	"startColumn": 73,
+	"endLineNumber": 180,
+	"endColumn": 103,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"close\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 180,
+	"startColumn": 92,
+	"endLineNumber": 180,
+	"endColumn": 102,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"monitor_thread\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 184,
+	"startColumn": 9,
+	"endLineNumber": 184,
+	"endColumn": 28,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"start\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 184,
+	"startColumn": 9,
+	"endLineNumber": 184,
+	"endColumn": 34,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"root\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 185,
+	"startColumn": 9,
+	"endLineNumber": 185,
+	"endColumn": 18,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"mainloop\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 185,
+	"startColumn": 9,
+	"endLineNumber": 185,
+	"endColumn": 27,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownParameterType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownParameterType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of parameter \"self\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 189,
+	"startColumn": 11,
+	"endLineNumber": 189,
+	"endColumn": 15,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportMissingParameterType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportMissingParameterType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type annotation is missing for parameter \"self\"",
+	"source": "Pylance",
+	"startLineNumber": 189,
+	"startColumn": 11,
+	"endLineNumber": 189,
+	"endColumn": 15,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownArgumentType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownArgumentType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Argument type is unknown\n  Argument corresponds to parameter \"o\" in function \"getattr\"",
+	"source": "Pylance",
+	"startLineNumber": 192,
+	"startColumn": 24,
+	"endLineNumber": 192,
+	"endColumn": 28,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"player\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 194,
+	"startColumn": 21,
+	"endLineNumber": 194,
+	"endColumn": 32,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"stop\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 194,
+	"startColumn": 21,
+	"endLineNumber": 194,
+	"endColumn": 37,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"player\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 199,
+	"startColumn": 21,
+	"endLineNumber": 199,
+	"endColumn": 32,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"release\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 199,
+	"startColumn": 21,
+	"endLineNumber": 199,
+	"endColumn": 40,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownArgumentType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownArgumentType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Argument type is unknown\n  Argument corresponds to parameter \"o\" in function \"getattr\"",
+	"source": "Pylance",
+	"startLineNumber": 202,
+	"startColumn": 24,
+	"endLineNumber": 202,
+	"endColumn": 28,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"instance\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 204,
+	"startColumn": 21,
+	"endLineNumber": 204,
+	"endColumn": 34,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"release\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 204,
+	"startColumn": 21,
+	"endLineNumber": 204,
+	"endColumn": 42,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"root\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 211,
+	"startColumn": 21,
+	"endLineNumber": 211,
+	"endColumn": 30,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"quit\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 211,
+	"startColumn": 21,
+	"endLineNumber": 211,
+	"endColumn": 35,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"root\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 215,
+	"startColumn": 21,
+	"endLineNumber": 215,
+	"endColumn": 30,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"destroy\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 215,
+	"startColumn": 21,
+	"endLineNumber": 215,
+	"endColumn": 38,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"play\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 244,
+	"startColumn": 5,
+	"endLineNumber": 244,
+	"endColumn": 16,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportAttributeAccessIssue",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportAttributeAccessIssue.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Cannot access attribute \"play\" for class \"FullscreenPlayer\"\n  Attribute \"play\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 244,
+	"startColumn": 12,
+	"endLineNumber": 244,
+	"endColumn": 16,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownParameterType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownParameterType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Return type, \"(...) -> None\", is partially unknown",
+	"source": "Pylance",
+	"startLineNumber": 250,
+	"startColumn": 5,
+	"endLineNumber": 250,
+	"endColumn": 20,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownParameterType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownParameterType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of parameter \"args\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 252,
+	"startColumn": 22,
+	"endLineNumber": 252,
+	"endColumn": 26,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportMissingParameterType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportMissingParameterType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type annotation is missing for parameter \"args\"",
+	"source": "Pylance",
+	"startLineNumber": 252,
+	"startColumn": 22,
+	"endLineNumber": 252,
+	"endColumn": 26,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownParameterType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownParameterType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of parameter \"kwargs\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 252,
+	"startColumn": 30,
+	"endLineNumber": 252,
+	"endColumn": 36,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportMissingParameterType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportMissingParameterType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type annotation is missing for parameter \"kwargs\"",
+	"source": "Pylance",
+	"startLineNumber": 252,
+	"startColumn": 30,
+	"endLineNumber": 252,
+	"endColumn": 36,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownArgumentType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownArgumentType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Argument type is partially unknown\n  Argument corresponds to parameter \"iterable\" in function \"__new__\"\n  Argument type is \"tuple[Unknown, ...]\"",
+	"source": "Pylance",
+	"startLineNumber": 254,
+	"startColumn": 37,
+	"endLineNumber": 254,
+	"endColumn": 41,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownArgumentType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownArgumentType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Argument type is unknown\n  Argument corresponds to parameter \"values\" in function \"print\"",
+	"source": "Pylance",
+	"startLineNumber": 257,
+	"startColumn": 16,
+	"endLineNumber": 257,
+	"endColumn": 20,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownArgumentType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownArgumentType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Argument type is unknown\n  Argument corresponds to parameter \"sep\" in function \"print\"",
+	"source": "Pylance",
+	"startLineNumber": 257,
+	"startColumn": 24,
+	"endLineNumber": 257,
+	"endColumn": 30,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownArgumentType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownArgumentType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Argument type is unknown\n  Argument corresponds to parameter \"end\" in function \"print\"",
+	"source": "Pylance",
+	"startLineNumber": 257,
+	"startColumn": 24,
+	"endLineNumber": 257,
+	"endColumn": 30,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownArgumentType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownArgumentType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Argument type is unknown\n  Argument corresponds to parameter \"file\" in function \"print\"",
+	"source": "Pylance",
+	"startLineNumber": 257,
+	"startColumn": 24,
+	"endLineNumber": 257,
+	"endColumn": 30,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownArgumentType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownArgumentType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Argument type is unknown\n  Argument corresponds to parameter \"flush\" in function \"print\"",
+	"source": "Pylance",
+	"startLineNumber": 257,
+	"startColumn": 24,
+	"endLineNumber": 257,
+	"endColumn": 30,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownVariableType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownVariableType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Return type, \"(...) -> None\", is partially unknown",
+	"source": "Pylance",
+	"startLineNumber": 258,
+	"startColumn": 12,
+	"endLineNumber": 258,
+	"endColumn": 23,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownVariableType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownVariableType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"debug_print\" is partially unknown\n  Type of \"debug_print\" is \"(...) -> None\"",
+	"source": "Pylance",
+	"startLineNumber": 261,
+	"startColumn": 1,
+	"endLineNumber": 261,
+	"endColumn": 12,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownParameterType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownParameterType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Return type is unknown",
+	"source": "Pylance",
+	"startLineNumber": 303,
+	"startColumn": 5,
+	"endLineNumber": 303,
+	"endColumn": 27,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"iconbitmap\" is partially unknown\n  Type of \"iconbitmap\" is \"(bitmap: Unknown | None = None, default: Unknown | None = None) -> Unknown\"",
+	"source": "Pylance",
+	"startLineNumber": 320,
+	"startColumn": 17,
+	"endLineNumber": 320,
+	"endColumn": 32,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownArgumentType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownArgumentType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Argument type is partially unknown\n  Argument corresponds to parameter \"master\" in function \"__init__\"\n  Argument type is \"Tk | Unknown | None\"",
+	"source": "Pylance",
+	"startLineNumber": 348,
+	"startColumn": 31,
+	"endLineNumber": 348,
+	"endColumn": 35,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"withdraw\" is partially unknown\n  Type of \"withdraw\" is \"(() -> None) | Unknown\"",
+	"source": "Pylance",
+	"startLineNumber": 381,
+	"startColumn": 13,
+	"endLineNumber": 381,
+	"endColumn": 26,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportOptionalMemberAccess",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportOptionalMemberAccess.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "\"withdraw\" is not a known attribute of \"None\"",
+	"source": "Pylance",
+	"startLineNumber": 381,
+	"startColumn": 18,
+	"endLineNumber": 381,
+	"endColumn": 26,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownParameterType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownParameterType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of parameter \"difficulty\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 397,
+	"startColumn": 23,
+	"endLineNumber": 397,
+	"endColumn": 33,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportMissingParameterType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportMissingParameterType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type annotation is missing for parameter \"difficulty\"",
+	"source": "Pylance",
+	"startLineNumber": 397,
+	"startColumn": 23,
+	"endLineNumber": 397,
+	"endColumn": 33,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportConstantRedefinition",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportConstantRedefinition.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "\"BALU_PROBABILITY\" is constant (because it is uppercase) and cannot be redefined",
+	"source": "Pylance",
+	"startLineNumber": 408,
+	"startColumn": 9,
+	"endLineNumber": 408,
+	"endColumn": 25,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportConstantRedefinition",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportConstantRedefinition.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "\"BALU_PROBABILITY\" is constant (because it is uppercase) and cannot be redefined",
+	"source": "Pylance",
+	"startLineNumber": 411,
+	"startColumn": 9,
+	"endLineNumber": 411,
+	"endColumn": 25,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportConstantRedefinition",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportConstantRedefinition.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "\"BALU_PROBABILITY\" is constant (because it is uppercase) and cannot be redefined",
+	"source": "Pylance",
+	"startLineNumber": 414,
+	"startColumn": 9,
+	"endLineNumber": 414,
+	"endColumn": 25,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportConstantRedefinition",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportConstantRedefinition.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "\"BALU_PROBABILITY\" is constant (because it is uppercase) and cannot be redefined",
+	"source": "Pylance",
+	"startLineNumber": 417,
+	"startColumn": 9,
+	"endLineNumber": 417,
+	"endColumn": 25,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"winfo_exists\" is partially unknown\n  Type of \"winfo_exists\" is \"(() -> bool) | Unknown\"",
+	"source": "Pylance",
+	"startLineNumber": 431,
+	"startColumn": 21,
+	"endLineNumber": 431,
+	"endColumn": 38,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"deiconify\" is partially unknown\n  Type of \"deiconify\" is \"(() -> None) | Unknown\"",
+	"source": "Pylance",
+	"startLineNumber": 432,
+	"startColumn": 13,
+	"endLineNumber": 432,
+	"endColumn": 27,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"update\" is partially unknown\n  Type of \"update\" is \"(() -> None) | Unknown\"",
+	"source": "Pylance",
+	"startLineNumber": 433,
+	"startColumn": 13,
+	"endLineNumber": 433,
+	"endColumn": 24,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"after\" is partially unknown\n  Type of \"after\" is \"((ms: int | Literal['idle'], func: ((*_Ts@after) -> object), *args: *_Ts@after) -> str) | Unknown\"",
+	"source": "Pylance",
+	"startLineNumber": 438,
+	"startColumn": 5,
+	"endLineNumber": 438,
+	"endColumn": 15,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportOptionalMemberAccess",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportOptionalMemberAccess.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "\"after\" is not a known attribute of \"None\"",
+	"source": "Pylance",
+	"startLineNumber": 438,
+	"startColumn": 10,
+	"endLineNumber": 438,
+	"endColumn": 15,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownVariableType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownVariableType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"parent\" is partially unknown\n  Type of \"parent\" is \"Tk | Unknown | None\"",
+	"source": "Pylance",
+	"startLineNumber": 451,
+	"startColumn": 9,
+	"endLineNumber": 451,
+	"endColumn": 15,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"winfo_exists\" is partially unknown\n  Type of \"winfo_exists\" is \"(() -> bool) | Unknown\"",
+	"source": "Pylance",
+	"startLineNumber": 451,
+	"startColumn": 50,
+	"endLineNumber": 451,
+	"endColumn": 67,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportOptionalMemberAccess",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportOptionalMemberAccess.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "\"winfo_exists\" is not a known attribute of \"None\"",
+	"source": "Pylance",
+	"startLineNumber": 451,
+	"startColumn": 55,
+	"endLineNumber": 451,
+	"endColumn": 67,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportArgumentType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportArgumentType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Argument of type \"Tk | Unknown | None\" cannot be assigned to parameter \"parent\" of type \"Misc\" in function \"showwarning\"\n  Type \"Tk | Unknown | None\" is not assignable to type \"Misc\"\n    \"None\" is not assignable to \"Misc\"",
+	"source": "Pylance",
+	"startLineNumber": 452,
+	"startColumn": 104,
+	"endLineNumber": 452,
+	"endColumn": 110,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"winfo_exists\" is partially unknown\n  Type of \"winfo_exists\" is \"(() -> bool) | Unknown\"",
+	"source": "Pylance",
+	"startLineNumber": 465,
+	"startColumn": 21,
+	"endLineNumber": 465,
+	"endColumn": 38,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"withdraw\" is partially unknown\n  Type of \"withdraw\" is \"(() -> None) | Unknown\"",
+	"source": "Pylance",
+	"startLineNumber": 466,
+	"startColumn": 13,
+	"endLineNumber": 466,
+	"endColumn": 26,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownArgumentType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownArgumentType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Argument type is partially unknown\n  Argument corresponds to parameter \"master\" in function \"__init__\"\n  Argument type is \"Tk | Unknown | None\"",
+	"source": "Pylance",
+	"startLineNumber": 472,
+	"startColumn": 31,
+	"endLineNumber": 472,
+	"endColumn": 35,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"iconbitmap\" is partially unknown\n  Type of \"iconbitmap\" is \"(bitmap: Unknown | None = None, default: Unknown | None = None) -> Unknown\"",
+	"source": "Pylance",
+	"startLineNumber": 480,
+	"startColumn": 13,
+	"endLineNumber": 480,
+	"endColumn": 35,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportOptionalMemberAccess",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportOptionalMemberAccess.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "\"destroy\" is not a known attribute of \"None\"",
+	"source": "Pylance",
+	"startLineNumber": 491,
+	"startColumn": 25,
+	"endLineNumber": 491,
+	"endColumn": 32,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"winfo_exists\" is partially unknown\n  Type of \"winfo_exists\" is \"(() -> bool) | Unknown\"",
+	"source": "Pylance",
+	"startLineNumber": 500,
+	"startColumn": 25,
+	"endLineNumber": 500,
+	"endColumn": 42,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"deiconify\" is partially unknown\n  Type of \"deiconify\" is \"(() -> None) | Unknown\"",
+	"source": "Pylance",
+	"startLineNumber": 501,
+	"startColumn": 17,
+	"endLineNumber": 501,
+	"endColumn": 31,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"set\" is partially unknown\n  Type of \"set\" is \"(value: Unknown) -> None\"",
+	"source": "Pylance",
+	"startLineNumber": 518,
+	"startColumn": 5,
+	"endLineNumber": 518,
+	"endColumn": 24,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportOptionalMemberAccess",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportOptionalMemberAccess.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "\"config\" is not a known attribute of \"None\"",
+	"source": "Pylance",
+	"startLineNumber": 525,
+	"startColumn": 68,
+	"endLineNumber": 525,
+	"endColumn": 74,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportOptionalMemberAccess",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportOptionalMemberAccess.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "\"get\" is not a known attribute of \"None\"",
+	"source": "Pylance",
+	"startLineNumber": 614,
+	"startColumn": 17,
+	"endLineNumber": 614,
+	"endColumn": 20,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportOptionalMemberAccess",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportOptionalMemberAccess.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "\"delete\" is not a known attribute of \"None\"",
+	"source": "Pylance",
+	"startLineNumber": 619,
+	"startColumn": 21,
+	"endLineNumber": 619,
+	"endColumn": 27,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnusedVariable",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnusedVariable.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Variable \"range_text\" is not accessed",
+	"source": "Pylance",
+	"startLineNumber": 643,
+	"startColumn": 14,
+	"endLineNumber": 643,
+	"endColumn": 24,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnusedVariable",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnusedVariable.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Variable \"range_text\" is not accessed",
+	"source": "Pylance",
+	"startLineNumber": 646,
+	"startColumn": 14,
+	"endLineNumber": 646,
+	"endColumn": 24,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnusedVariable",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnusedVariable.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Variable \"range_text\" is not accessed",
+	"source": "Pylance",
+	"startLineNumber": 649,
+	"startColumn": 14,
+	"endLineNumber": 649,
+	"endColumn": 24,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnusedVariable",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnusedVariable.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Variable \"range_text\" is not accessed",
+	"source": "Pylance",
+	"startLineNumber": 652,
+	"startColumn": 14,
+	"endLineNumber": 652,
+	"endColumn": 24,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnboundVariable",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnboundVariable.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "\"random_number2\" is unbound",
+	"source": "Pylance",
+	"startLineNumber": 656,
+	"startColumn": 42,
+	"endLineNumber": 656,
+	"endColumn": 56,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportPossiblyUnboundVariable",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportPossiblyUnboundVariable.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "\"random_number2\" is possibly unbound",
+	"source": "Pylance",
+	"startLineNumber": 657,
+	"startColumn": 16,
+	"endLineNumber": 657,
+	"endColumn": 30,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportOperatorIssue",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportOperatorIssue.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Operator \"<\" not supported for types \"int | Unbound\" and \"int | None\"\n  Operator \"<\" not supported for types \"int\" and \"None\"\n  Operator \"<\" not supported for types \"Unbound\" and \"None\"",
+	"source": "Pylance",
+	"startLineNumber": 657,
+	"startColumn": 16,
+	"endLineNumber": 657,
+	"endColumn": 54,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportPossiblyUnboundVariable",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportPossiblyUnboundVariable.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "\"random_number2\" is possibly unbound",
+	"source": "Pylance",
+	"startLineNumber": 659,
+	"startColumn": 18,
+	"endLineNumber": 659,
+	"endColumn": 32,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportOperatorIssue",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportOperatorIssue.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Operator \">\" not supported for types \"int | Unbound\" and \"int | None\"\n  Operator \">\" not supported for types \"int\" and \"None\"\n  Operator \">\" not supported for types \"Unbound\" and \"None\"",
+	"source": "Pylance",
+	"startLineNumber": 659,
+	"startColumn": 18,
+	"endLineNumber": 659,
+	"endColumn": 56,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportPossiblyUnboundVariable",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportPossiblyUnboundVariable.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "\"random_number2\" is possibly unbound",
+	"source": "Pylance",
+	"startLineNumber": 663,
+	"startColumn": 54,
+	"endLineNumber": 663,
+	"endColumn": 68,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnusedVariable",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnusedVariable.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Variable \"range_text\" is not accessed",
+	"source": "Pylance",
+	"startLineNumber": 671,
+	"startColumn": 19,
+	"endLineNumber": 671,
+	"endColumn": 29,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnusedVariable",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnusedVariable.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Variable \"range_text\" is not accessed",
+	"source": "Pylance",
+	"startLineNumber": 674,
+	"startColumn": 19,
+	"endLineNumber": 674,
+	"endColumn": 29,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnusedVariable",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnusedVariable.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Variable \"range_text\" is not accessed",
+	"source": "Pylance",
+	"startLineNumber": 677,
+	"startColumn": 19,
+	"endLineNumber": 677,
+	"endColumn": 29,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnusedVariable",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnusedVariable.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Variable \"range_text\" is not accessed",
+	"source": "Pylance",
+	"startLineNumber": 680,
+	"startColumn": 19,
+	"endLineNumber": 680,
+	"endColumn": 29,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportOperatorIssue",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportOperatorIssue.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Operator \"<\" not supported for types \"int\" and \"int | None\"\n  Operator \"<\" not supported for types \"int\" and \"None\"",
+	"source": "Pylance",
+	"startLineNumber": 699,
+	"startColumn": 14,
+	"endLineNumber": 699,
+	"endColumn": 43,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportOptionalMemberAccess",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportOptionalMemberAccess.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "\"insert\" is not a known attribute of \"None\"",
+	"source": "Pylance",
+	"startLineNumber": 708,
+	"startColumn": 21,
+	"endLineNumber": 708,
+	"endColumn": 27,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportOptionalMemberAccess",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportOptionalMemberAccess.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "\"see\" is not a known attribute of \"None\"",
+	"source": "Pylance",
+	"startLineNumber": 710,
+	"startColumn": 25,
+	"endLineNumber": 710,
+	"endColumn": 28,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportOptionalMemberAccess",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportOptionalMemberAccess.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "\"delete\" is not a known attribute of \"None\"",
+	"source": "Pylance",
+	"startLineNumber": 715,
+	"startColumn": 11,
+	"endLineNumber": 715,
+	"endColumn": 17,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownArgumentType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownArgumentType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Argument type is partially unknown\n  Argument corresponds to parameter \"parent\" in function \"askstring\"\n  Argument type is \"Tk | Unknown | None\"",
+	"source": "Pylance",
+	"startLineNumber": 722,
+	"startColumn": 88,
+	"endLineNumber": 722,
+	"endColumn": 92,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportConstantRedefinition",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportConstantRedefinition.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "\"TEST_SNAPSHOT\" is constant (because it is uppercase) and cannot be redefined",
+	"source": "Pylance",
+	"startLineNumber": 743,
+	"startColumn": 13,
+	"endLineNumber": 743,
+	"endColumn": 26,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportConstantRedefinition",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportConstantRedefinition.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "\"TEST_MODE_ACTIVE\" is constant (because it is uppercase) and cannot be redefined",
+	"source": "Pylance",
+	"startLineNumber": 747,
+	"startColumn": 9,
+	"endLineNumber": 747,
+	"endColumn": 25,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportOptionalMemberAccess",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportOptionalMemberAccess.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "\"pack\" is not a known attribute of \"None\"",
+	"source": "Pylance",
+	"startLineNumber": 754,
+	"startColumn": 38,
+	"endLineNumber": 754,
+	"endColumn": 42,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportOptionalMemberAccess",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportOptionalMemberAccess.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "\"pack\" is not a known attribute of \"None\"",
+	"source": "Pylance",
+	"startLineNumber": 755,
+	"startColumn": 37,
+	"endLineNumber": 755,
+	"endColumn": 41,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportOptionalMemberAccess",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportOptionalMemberAccess.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "\"pack\" is not a known attribute of \"None\"",
+	"source": "Pylance",
+	"startLineNumber": 756,
+	"startColumn": 43,
+	"endLineNumber": 756,
+	"endColumn": 47,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownArgumentType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownArgumentType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Argument type is partially unknown\n  Argument corresponds to parameter \"master\" in function \"__init__\"\n  Argument type is \"Tk | Unknown | None\"",
+	"source": "Pylance",
+	"startLineNumber": 775,
+	"startColumn": 22,
+	"endLineNumber": 775,
+	"endColumn": 26,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownArgumentType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownArgumentType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Argument type is partially unknown\n  Argument corresponds to parameter \"master\" in function \"__init__\"\n  Argument type is \"Tk | Unknown | None\"",
+	"source": "Pylance",
+	"startLineNumber": 779,
+	"startColumn": 26,
+	"endLineNumber": 779,
+	"endColumn": 30,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownArgumentType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownArgumentType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Argument type is partially unknown\n  Argument corresponds to parameter \"master\" in function \"__init__\"\n  Argument type is \"Tk | Unknown | None\"",
+	"source": "Pylance",
+	"startLineNumber": 784,
+	"startColumn": 30,
+	"endLineNumber": 784,
+	"endColumn": 34,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownVariableType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownVariableType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"root\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 799,
+	"startColumn": 9,
+	"endLineNumber": 799,
+	"endColumn": 13,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"after\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 805,
+	"startColumn": 13,
+	"endLineNumber": 805,
+	"endColumn": 23,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"deiconify\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 808,
+	"startColumn": 13,
+	"endLineNumber": 808,
+	"endColumn": 27,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"mainloop\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 812,
+	"startColumn": 9,
+	"endLineNumber": 812,
+	"endColumn": 22,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownArgumentType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownArgumentType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Argument type is partially unknown\n  Argument corresponds to parameter \"obj\" in function \"hasattr\"\n  Argument type is \"Tk | Unknown\"",
+	"source": "Pylance",
+	"startLineNumber": 828,
+	"startColumn": 33,
+	"endLineNumber": 828,
+	"endColumn": 37,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"winfo_exists\" is partially unknown\n  Type of \"winfo_exists\" is \"(() -> bool) | Unknown\"",
+	"source": "Pylance",
+	"startLineNumber": 828,
+	"startColumn": 59,
+	"endLineNumber": 828,
+	"endColumn": 76,
+	"origin": "extHost2"
+},{
+	"resource": "/g:/Meine Ablage/Repo's/Ben-bit-code-208.github.io/DATA/Spiele/sourcecode/irgendwas.py",
+	"owner": "Pylance2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"path": "/microsoft/pylance-release/blob/main/docs/diagnostics/reportUnknownMemberType.md",
+			"scheme": "https",
+			"authority": "github.com"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"destroy\" is partially unknown\n  Type of \"destroy\" is \"(() -> None) | Unknown\"",
+	"source": "Pylance",
+	"startLineNumber": 829,
+	"startColumn": 17,
+	"endLineNumber": 829,
+	"endColumn": 29,
+	"origin": "extHost2"
+}]

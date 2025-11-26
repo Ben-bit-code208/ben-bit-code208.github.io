@@ -1,0 +1,71 @@
+*.json text eol=lf
+*.py text eol=lf
+*.html text eol=lf
+*.css text eol=lf
+*.js text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.svg binary
+*.ico binary
+*.woff binary
+*.woff2 binary
+*.ttf binary
+*.eot binary
+*.mp4 binary
+*.mp3 binary
+*.wav binary
+*.zip binary
+*.tar binary
+*.gz binary
+*.exe binary
+*.dll binary
+*.bin binary
+*.pdf binary
+*.docx binary
+*.xlsx binary
+*.pptx binary
+*.odt binary
+*.ods binary
+*.odp binary
+*.psd binary
+*.ai binary
+*.xcf binary
+*.ico binary
+*.cur binary
+*.ani binary
+*.db binary
+*.sqlite binary
+*.sqlite3 binary
+*.log text eol=lf
+*.cfg text eol=lf
+*.ini text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.toml text eol=lf
+*.bat text eol=crlf
+*.sh text eol=lf
+*.ps1 text eol=crlf
+.vscode/* text eol=lf
+DATA/Spiele/sourcecode/* text eol=lf
+DATA/Spiele/assets/* binary
+DATA/Spiele/levels/* text eol=lf
+DATA/Spiele/saves/* binary
+DATA/Spiele/music/* binary
+DATA/Spiele/sounds/* binary
+DATA/Spiele/images/* binary
+DATA/Spiele/videos/* binary
+DATA/Spiele/scripts/* text eol=lf
+DATA/Spiele/docs/* text eol=lf
+DATA/Spiele/config/* text eol=lf
+DATA/Spiele/temp/* binary
+DATA/Spiele/logs/* text eol=lf
+DATA/Spiele/mods/* binary
+DATA/Spiele/plugins/* binary
+DATA/Spiele/sourcecode/irgendwas.py text eol=lf
+DATA/Spiele/sourcecode/irgendwas.py linguist-language=Python
+DATA/Spiele/sourcecode/irgendwas.py diff=python
+DATA/Spiele/sourcecode/irgendwas.py merge=python
