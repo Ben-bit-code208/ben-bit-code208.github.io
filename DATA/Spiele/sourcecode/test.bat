@@ -1,1 +1,0 @@
-powershell -NoProfile -Command "Write-Host 'Mein roter Text' -ForegroundColor Red"
